@@ -12,7 +12,7 @@ export function ResultModal({ answer, guesses, comparisons, status, puzzleNumber
   }, [won]);
 
   function handleShare() {
-    const text = buildShareText(guesses, comparisons, puzzleNumber, won);
+    const text = buildShareText(guesses, comparisons, puzzleNumber);
     if (navigator.clipboard) {
       navigator.clipboard.writeText(text).then(() => alert('Copied to clipboard!'));
     } else {

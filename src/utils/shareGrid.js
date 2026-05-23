@@ -1,12 +1,14 @@
 const EMOJI = { green: '🟩', yellow: '🟨', gray: '⬛' };
 
-export function buildShareText(guesses, comparisons, puzzleNumber, won) {
-  const lines = [`🎬 My Movie Game #${puzzleNumber}`];
+const APP_URL = 'https://candid-twilight-b4b8a6.netlify.app';
 
-  comparisons.forEach(comp => {
-    const tiles = [
+export function buildShareText(guesses, comparisons, puzzleNumber) {
+  const lines = [`FilmGuess #${puzzleNumber}`];
+
+  // One emoji per guess — summarise the best tile result for that guess
+  const row = comparisons.map(comp => {
+    const statuses = [
       comp.director.status,
-      // cast: use best status across all actors
       bestCastStatus(comp.cast),
       comp.year.status,
       comp.boxOffice.status,
@@ -15,11 +17,13 @@ export function buildShareText(guesses, comparisons, puzzleNumber, won) {
       comp.genres.status,
       comp.studio.status,
     ];
-    lines.push(tiles.map(s => EMOJI[s]).join(''));
+    if (statuses.every(s => s === 'green')) return EMOJI.green;
+    return EMOJI.gray;
   });
 
-  const result = won ? `Guessed in ${guesses.length}/10` : 'X/10 — better luck tomorrow!';
-  lines.push(result);
+  lines.push(row.join(''));
+  lines.push('');
+  lines.push(APP_URL);
   return lines.join('\n');
 }
 

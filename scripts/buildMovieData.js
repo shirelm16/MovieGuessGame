@@ -68,9 +68,9 @@ function parseGenres(str) {
   return str.split(',').map(s => s.trim());
 }
 
-// ── TMDb (studio enrichment) ───────────────────────────────────────────────────
+// ── TMDb (studio + box office enrichment) ─────────────────────────────────────
 
-async function fetchTmdbStudio(imdbId) {
+async function fetchTmdbData(imdbId) {
   // Step 1: resolve IMDb ID → TMDb ID
   const findRes = await fetch(
     `https://api.themoviedb.org/3/find/${imdbId}?external_source=imdb_id&api_key=${TMDB_KEY}`
@@ -80,45 +80,96 @@ async function fetchTmdbStudio(imdbId) {
   const tmdbId = findData.movie_results?.[0]?.id;
   if (!tmdbId) return null;
 
-  // Step 2: get production companies from movie details
+  // Step 2: get details — production_companies + revenue in one call
   const detailRes = await fetch(
     `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}`
   );
   if (!detailRes.ok) return null;
   const detail = await detailRes.json();
-  const companies = detail.production_companies ?? [];
-  return companies[0]?.name ?? null;
+
+  return {
+    studio: detail.production_companies?.[0]?.name ?? null,
+    boxOffice: detail.revenue > 0 ? detail.revenue : null,
+  };
 }
 
-async function enrichStudios(results) {
+async function enrichFromTmdb(results) {
   if (!TMDB_KEY) {
-    console.log('\nNo TMDB_API_KEY — skipping studio enrichment.');
+    console.log('\nNo TMDB_API_KEY — skipping TMDb enrichment.');
     return results;
   }
 
-  const missing = results.filter(m => !m.studio);
-  console.log(`\nEnriching studio for ${missing.length} movies via TMDb...`);
+  const toEnrich = results.filter(m => !m.studio || !m.boxOffice);
+  console.log(`\nEnriching ${toEnrich.length} movies via TMDb (studio + box office)...`);
 
-  let enriched = 0;
+  let studioCount = 0, boxOfficeCount = 0;
   for (let i = 0; i < results.length; i++) {
     const movie = results[i];
-    if (movie.studio) continue;
+    if (movie.studio && movie.boxOffice) continue;
 
     try {
       process.stdout.write(`\r  [${i + 1}/${results.length}] ${movie.title}          `);
-      const studio = await fetchTmdbStudio(movie.id);
-      if (studio) {
-        results[i] = { ...movie, studio };
-        enriched++;
+      const tmdb = await fetchTmdbData(movie.id);
+      if (tmdb) {
+        const updated = { ...movie };
+        if (!movie.studio && tmdb.studio)       { updated.studio = tmdb.studio; studioCount++; }
+        if (!movie.boxOffice && tmdb.boxOffice) { updated.boxOffice = tmdb.boxOffice; boxOfficeCount++; }
+        results[i] = updated;
       }
-      // TMDb free tier: 40 req/10s. Two calls per movie → stay at ~3 movies/s
+      // TMDb free tier: 40 req/10s. Two calls per movie → ~3 movies/s
       await new Promise(r => setTimeout(r, 350));
     } catch (err) {
-      // non-fatal — leave studio as null
+      // non-fatal — leave fields as null
     }
   }
 
-  console.log(`\nStudio enriched: ${enriched}/${missing.length} movies`);
+  console.log(`\nTMDb — studio filled: ${studioCount}, box office filled: ${boxOfficeCount}`);
+  return results;
+}
+
+// ── Wikidata fallback (box office only) ────────────────────────────────────────
+// Catches limited/foreign releases that TMDb lists as revenue=0
+
+async function fetchWikidataBoxOffice(imdbId) {
+  const query = `
+    SELECT ?boxOffice WHERE {
+      ?film wdt:P345 "${imdbId}" .
+      ?film wdt:P2142 ?boxOffice .
+    } LIMIT 1
+  `;
+  const url = 'https://query.wikidata.org/sparql?query=' + encodeURIComponent(query) + '&format=json';
+  const res = await fetch(url, { headers: { 'User-Agent': 'FilmGuess/1.0' } });
+  if (!res.ok) return null;
+  const data = await res.json();
+  const val = data.results?.bindings?.[0]?.boxOffice?.value;
+  return val ? Math.round(parseFloat(val)) : null;
+}
+
+async function enrichBoxOfficeFromWikidata(results) {
+  const toEnrich = results.filter(m => !m.boxOffice);
+  if (!toEnrich.length) return results;
+
+  console.log(`\nFetching box office for ${toEnrich.length} remaining movies via Wikidata...`);
+  let filled = 0;
+
+  for (let i = 0; i < results.length; i++) {
+    const movie = results[i];
+    if (movie.boxOffice) continue;
+
+    try {
+      process.stdout.write(`\r  [${i + 1}/${results.length}] ${movie.title}          `);
+      const boxOffice = await fetchWikidataBoxOffice(movie.id);
+      if (boxOffice) {
+        results[i] = { ...movie, boxOffice };
+        filled++;
+      }
+      await new Promise(r => setTimeout(r, 200));
+    } catch (err) {
+      // non-fatal
+    }
+  }
+
+  console.log(`\nWikidata — box office filled: ${filled}/${toEnrich.length}`);
   return results;
 }
 
@@ -180,8 +231,11 @@ async function main() {
     }
   }
 
-  // Phase 2: TMDb studio enrichment for any movie still missing studio
-  const enriched = await enrichStudios(results);
+  // Phase 2: TMDb enrichment — fills studio + box office
+  const tmdbEnriched = await enrichFromTmdb(results);
+
+  // Phase 3: Wikidata fallback — box office for anything TMDb still couldn't fill
+  const enriched = await enrichBoxOfficeFromWikidata(tmdbEnriched);
 
   console.log(`\nWriting ${enriched.length} movies to ${OUT_PATH}`);
   fs.writeFileSync(OUT_PATH, JSON.stringify(enriched, null, 2));

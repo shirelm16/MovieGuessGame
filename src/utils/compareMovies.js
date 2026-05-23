@@ -52,10 +52,9 @@ function compareYear(guess, answer) {
 
 function compareBoxOffice(guess, answer) {
   if (!guess.boxOffice || !answer.boxOffice) return { status: 'gray' };
-  const ratio = guess.boxOffice / answer.boxOffice;
-  const pctOff = Math.abs(ratio - 1);
   const hint = guess.boxOffice < answer.boxOffice ? '↑' : '↓';
-  if (pctOff <= 0.10) return { status: 'green' };
+  if (guess.boxOffice === answer.boxOffice) return { status: 'green' };
+  const pctOff = Math.abs(guess.boxOffice / answer.boxOffice - 1);
   if (pctOff <= 0.50) return { status: 'yellow', hint };
   return { status: 'gray', hint };
 }
@@ -64,7 +63,7 @@ function compareImdbScore(guess, answer) {
   if (!guess.imdbScore || !answer.imdbScore) return { status: 'gray' };
   const diff = Math.abs(guess.imdbScore - answer.imdbScore);
   const hint = guess.imdbScore < answer.imdbScore ? '↑' : '↓';
-  if (diff <= 0.3) return { status: 'green' };
+  if (diff === 0) return { status: 'green' };
   if (diff <= 1.0) return { status: 'yellow', hint };
   return { status: 'gray', hint };
 }

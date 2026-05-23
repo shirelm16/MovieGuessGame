@@ -37,7 +37,7 @@
     ],
     "rating": "R",
     "imdbScore": 8.4,
-    "boxOffice": null,
+    "boxOffice": 13133643,
     "runtime": 120,
     "poster": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
     "studio": "One Story High"
@@ -79,7 +79,7 @@
     ],
     "rating": null,
     "imdbScore": 7.5,
-    "boxOffice": null,
+    "boxOffice": 134421151,
     "runtime": null,
     "poster": "https://m.media-amazon.com/images/M/MV5BOWQ3NzRhZmQtMjY0ZC00YTlkLTllZTktOTQyMGJlN2MxNDVmXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "TOHO"
@@ -434,7 +434,7 @@
     ],
     "rating": null,
     "imdbScore": 6.6,
-    "boxOffice": null,
+    "boxOffice": 208039,
     "runtime": 82,
     "poster": "https://m.media-amazon.com/images/M/MV5BYTA0MTA5NWItYmI2Ny00MWU1LWIyZGQtYmI5NmZlMGEyODM3XkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Compass Films"
@@ -493,7 +493,7 @@
     ],
     "rating": null,
     "imdbScore": 7.2,
-    "boxOffice": null,
+    "boxOffice": 63448,
     "runtime": 93,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTEwZTg2MmItNDk2MS00MDY5LWE4NWEtNDgyMTFlZGJiNDQ5XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg",
     "studio": "WildBear Entertainment"
@@ -682,7 +682,7 @@
     ],
     "rating": "Not Rated",
     "imdbScore": 6.7,
-    "boxOffice": null,
+    "boxOffice": 631249,
     "runtime": 97,
     "poster": "https://m.media-amazon.com/images/M/MV5BOTJjMDMyMGYtZWU3ZS00OTVmLTg1ZWUtY2E4OGEyOGNmMjhiXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Profile Pictures"
@@ -811,7 +811,7 @@
     ],
     "rating": "PG-13",
     "imdbScore": 7,
-    "boxOffice": null,
+    "boxOffice": 21418477,
     "runtime": 114,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjM4YjA1NTItOWI3Ni00MzAwLThmMjMtNmM2MWY2Y2ZmOGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg",
     "studio": "Warner Bros. Pictures"
@@ -1087,7 +1087,7 @@
     ],
     "rating": "TV-PG",
     "imdbScore": 7.4,
-    "boxOffice": null,
+    "boxOffice": 548192,
     "runtime": 63,
     "poster": "https://m.media-amazon.com/images/M/MV5BODVmZjhhYTYtYzRiOC00YzFiLThlZjMtZTQxNWY0MTI1MzlmXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "CoMix Wave Films"
@@ -1574,7 +1574,7 @@
     ],
     "rating": null,
     "imdbScore": 7.1,
-    "boxOffice": null,
+    "boxOffice": 11196824,
     "runtime": 117,
     "poster": "https://m.media-amazon.com/images/M/MV5BY2FmODM3MzMtYTEyZi00YTkwLWE4NmYtODdkZjA3ZmNhZGJhXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "France 2 Cinéma"
@@ -1596,7 +1596,7 @@
     ],
     "rating": null,
     "imdbScore": 6.8,
-    "boxOffice": null,
+    "boxOffice": 1091821,
     "runtime": 113,
     "poster": "https://m.media-amazon.com/images/M/MV5BNmZiMTZjNjQtYjU1Ni00MjA4LTg1ZGEtYThmN2I4NDA5MzVmXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "TS Productions"
@@ -1915,7 +1915,7 @@
     ],
     "rating": "R",
     "imdbScore": 7.8,
-    "boxOffice": null,
+    "boxOffice": 1281,
     "runtime": 144,
     "poster": "https://m.media-amazon.com/images/M/MV5BODM1MWQ1MWUtMDM1ZS00ZjI3LTg4ZTMtNmI1ZDAwNmE4MTNiXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "El Arriero Films"
@@ -2681,7 +2681,7 @@
     ],
     "rating": "Approved",
     "imdbScore": 9,
-    "boxOffice": null,
+    "boxOffice": 4360000,
     "runtime": 96,
     "poster": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg",
     "studio": "Orion-Nova Productions"
@@ -2959,7 +2959,7 @@
     ],
     "rating": "R",
     "imdbScore": 5.7,
-    "boxOffice": null,
+    "boxOffice": 71476,
     "runtime": 136,
     "poster": "https://m.media-amazon.com/images/M/MV5BMDVmYTZmODMtNDU4YS00MzExLThmZTItOTM1ZDRiNmFmYWVhXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Heyday Films"
@@ -3084,7 +3084,7 @@
     ],
     "rating": "R",
     "imdbScore": 7.1,
-    "boxOffice": null,
+    "boxOffice": 27322,
     "runtime": 119,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzVkMTQ1ZTgtMjY1Yy00NzUwLThjN2UtY2I5MzVkYzJmMzUyXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "BCDF Pictures"
@@ -3446,7 +3446,7 @@
     ],
     "rating": "PG-13",
     "imdbScore": 7.2,
-    "boxOffice": null,
+    "boxOffice": 5000000,
     "runtime": 97,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NDk2MTk5Ml5BMl5BanBnXkFtZTcwODI2MzU1MQ@@._V1_SX300.jpg",
     "studio": "Black Balloon Productions"
@@ -3531,7 +3531,7 @@
     ],
     "rating": "R",
     "imdbScore": 6.7,
-    "boxOffice": null,
+    "boxOffice": 703281,
     "runtime": 121,
     "poster": "https://m.media-amazon.com/images/M/MV5BOGQ2OTNiNzMtMjA5Ny00Zjg4LWE1NTMtZDJlMWEyMDhhYmU4XkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Endeavor Content"
@@ -3764,7 +3764,7 @@
     ],
     "rating": "R",
     "imdbScore": 7.5,
-    "boxOffice": null,
+    "boxOffice": 1142493,
     "runtime": 92,
     "poster": "https://m.media-amazon.com/images/M/MV5BZjM3MWE4ZDktNDMzNi00OGM0LWI0NzYtYWQ3OGFjNDNjOWMwXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Ascendant Films"
@@ -3786,7 +3786,7 @@
     ],
     "rating": "PG-13",
     "imdbScore": 8,
-    "boxOffice": null,
+    "boxOffice": 1905058,
     "runtime": 111,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzIzOTNjOTQtM2QzOC00NjFlLTljZDUtZmI4Yjg1YTkyMTBiXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Vendôme Pictures"
@@ -4503,7 +4503,7 @@
     ],
     "rating": "Not Rated",
     "imdbScore": 7.7,
-    "boxOffice": null,
+    "boxOffice": 21700000,
     "runtime": 117,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjYxN2EwYjUtNzdiOS00NTgwLTgwNzMtZmE1NGMzYTYxNzBjXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Zentropa Entertainments"
@@ -4669,7 +4669,7 @@
     ],
     "rating": "R",
     "imdbScore": 7.7,
-    "boxOffice": null,
+    "boxOffice": 516520,
     "runtime": 120,
     "poster": "https://m.media-amazon.com/images/M/MV5BMWE5ZmYwNDEtYTYwMS00MTc0LTk2ZWItZTM1MjQ1ZDYzZGUzXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Flat 7"
@@ -4712,7 +4712,7 @@
     ],
     "rating": "G",
     "imdbScore": 8.1,
-    "boxOffice": null,
+    "boxOffice": 46800000,
     "runtime": 93,
     "poster": "https://m.media-amazon.com/images/M/MV5BNTU5NjYyYTgtZGQ3My00MzRhLThjNGYtZmVjN2JjYjhkMjhhXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Scion Films"
@@ -4734,7 +4734,7 @@
     ],
     "rating": "PG-13",
     "imdbScore": 6.7,
-    "boxOffice": null,
+    "boxOffice": 5491510,
     "runtime": 90,
     "poster": "https://m.media-amazon.com/images/M/MV5BOTViNDViNDgtNDc0Ny00NWZkLTljMzctYjgzNzI5MTYwZjJlXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Search Party"
@@ -5034,7 +5034,7 @@
     ],
     "rating": "TV-MA",
     "imdbScore": 7.6,
-    "boxOffice": null,
+    "boxOffice": 42350000,
     "runtime": 130,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjJhNTYxOGUtYWQxMS00YjYwLWFmMWItOWViN2QyZmZhNDM3XkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Jor Kwang Films"
@@ -5414,7 +5414,7 @@
     ],
     "rating": "TV-MA",
     "imdbScore": 3.6,
-    "boxOffice": null,
+    "boxOffice": 692459,
     "runtime": 96,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjQ2ZjlmN2YtZDY2NS00N2VkLTkzNTEtOTljYjJkNzI5ZDcxXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Bien ou Bien Productions"
@@ -5734,7 +5734,7 @@
     ],
     "rating": "R",
     "imdbScore": 6.1,
-    "boxOffice": null,
+    "boxOffice": 230441,
     "runtime": 107,
     "poster": "https://m.media-amazon.com/images/M/MV5BMmE4N2MwMGItMGQ5MC00MTMzLWIyMWQtNjBiYTZiOTUzYThhXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Killer Films"
@@ -6098,7 +6098,7 @@
     ],
     "rating": "R",
     "imdbScore": 7.9,
-    "boxOffice": null,
+    "boxOffice": 333686,
     "runtime": 137,
     "poster": "https://m.media-amazon.com/images/M/MV5BNmE0OWJlM2MtNzhmMi00YmQyLTlmY2EtZmUzNzBiNGRlN2JkXkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Heyday Films"
@@ -6185,7 +6185,7 @@
     ],
     "rating": "Not Rated",
     "imdbScore": 7.6,
-    "boxOffice": null,
+    "boxOffice": 3191971,
     "runtime": 138,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NzQzNjk2NF5BMl5BanBnXkFtZTgwODU0MjI5NjE@._V1_SX300.jpg",
     "studio": "MonkeyBoy"
@@ -6588,7 +6588,7 @@
     ],
     "rating": "R",
     "imdbScore": 7.2,
-    "boxOffice": null,
+    "boxOffice": 4100000,
     "runtime": 105,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTE5Njk1YzItMzEyYi00ZjQ2LTgzYjYtNTczYzIzN2QyYzE2XkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Frakas Productions"
@@ -7184,7 +7184,7 @@
     ],
     "rating": "R",
     "imdbScore": 6.4,
-    "boxOffice": null,
+    "boxOffice": 246133,
     "runtime": 107,
     "poster": "https://m.media-amazon.com/images/M/MV5BYzQ2Y2EyMzgtYjQ0YS00Njk4LTlkODQtMjczODdlZGI3ZjI3XkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Imperative Entertainment"
@@ -9640,7 +9640,7 @@
     ],
     "rating": "Not Rated",
     "imdbScore": 8.1,
-    "boxOffice": null,
+    "boxOffice": 1740429,
     "runtime": 92,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzY2Mjc4NjMtNGY4Mi00NzM5LTk3ZTQtN2VkNzVkMzRmM2Y2XkEyXkFqcGc@._V1_SX300.jpg",
     "studio": "Melodrama Pictures"
