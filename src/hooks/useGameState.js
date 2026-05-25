@@ -81,6 +81,7 @@ export function useGameState() {
 
   return {
     answer,
+    today,
     guesses: state.guesses,
     comparisons: state.comparisons,
     status: state.status,

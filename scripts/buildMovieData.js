@@ -68,7 +68,7 @@ function parseGenres(str) {
   return str.split(',').map(s => s.trim());
 }
 
-// ── TMDb (studio + box office enrichment) ─────────────────────────────────────
+// ── TMDb (studio + box office + hints enrichment) ─────────────────────────────
 
 async function fetchTmdbData(imdbId) {
   // Step 1: resolve IMDb ID → TMDb ID
@@ -80,16 +80,53 @@ async function fetchTmdbData(imdbId) {
   const tmdbId = findData.movie_results?.[0]?.id;
   if (!tmdbId) return null;
 
-  // Step 2: get details — production_companies + revenue in one call
+  // Step 2: get details + credits in one call
   const detailRes = await fetch(
-    `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}`
+    `https://api.themoviedb.org/3/movie/${tmdbId}?api_key=${TMDB_KEY}&append_to_response=credits`
   );
   if (!detailRes.ok) return null;
   const detail = await detailRes.json();
 
+  const director = detail.credits?.crew?.find(c => c.job === 'Director');
+  const leadActor = detail.credits?.cast?.[0];
+
   return {
     studio: detail.production_companies?.[0]?.name ?? null,
     boxOffice: detail.revenue > 0 ? detail.revenue : null,
+    tagline: detail.tagline || null,
+    directorId: director?.id ?? null,
+    leadActorPhoto: leadActor?.profile_path
+      ? `https://image.tmdb.org/t/p/w185${leadActor.profile_path}`
+      : null,
+    tmdbId,
+  };
+}
+
+// Per-director filmography cache — avoids redundant API calls for shared directors
+const directorFilmographyCache = {};
+
+async function getFilmographyData(directorId, currentTmdbId) {
+  if (!directorId) return null;
+  if (!(directorId in directorFilmographyCache)) {
+    const res = await fetch(
+      `https://api.themoviedb.org/3/person/${directorId}/movie_credits?api_key=${TMDB_KEY}`
+    );
+    await new Promise(r => setTimeout(r, 200));
+    if (!res.ok) {
+      directorFilmographyCache[directorId] = [];
+    } else {
+      const data = await res.json();
+      directorFilmographyCache[directorId] = (data.crew ?? [])
+        .filter(c => c.job === 'Director' && c.vote_count > 100)
+        .sort((a, b) => b.vote_count - a.vote_count)
+        .map(c => ({ id: c.id, title: c.title, posterPath: c.poster_path ?? null }));
+    }
+  }
+  const other = directorFilmographyCache[directorId].find(f => f.id !== currentTmdbId);
+  if (!other) return null;
+  return {
+    title: other.title,
+    poster: other.posterPath ? `https://image.tmdb.org/t/p/w92${other.posterPath}` : null,
   };
 }
 
@@ -99,13 +136,13 @@ async function enrichFromTmdb(results) {
     return results;
   }
 
-  const toEnrich = results.filter(m => !m.studio || !m.boxOffice);
-  console.log(`\nEnriching ${toEnrich.length} movies via TMDb (studio + box office)...`);
+  const toEnrich = results.filter(m => !m.studio || !m.boxOffice || !('tagline' in m));
+  console.log(`\nEnriching ${toEnrich.length} movies via TMDb...`);
 
-  let studioCount = 0, boxOfficeCount = 0;
+  let studioCount = 0, boxOfficeCount = 0, taglineCount = 0, photoCount = 0, filmographyCount = 0;
   for (let i = 0; i < results.length; i++) {
     const movie = results[i];
-    if (movie.studio && movie.boxOffice) continue;
+    if (movie.studio && movie.boxOffice && 'tagline' in movie) continue;
 
     try {
       process.stdout.write(`\r  [${i + 1}/${results.length}] ${movie.title}          `);
@@ -114,6 +151,16 @@ async function enrichFromTmdb(results) {
         const updated = { ...movie };
         if (!movie.studio && tmdb.studio)       { updated.studio = tmdb.studio; studioCount++; }
         if (!movie.boxOffice && tmdb.boxOffice) { updated.boxOffice = tmdb.boxOffice; boxOfficeCount++; }
+        updated.tagline = tmdb.tagline;
+        if (tmdb.tagline) taglineCount++;
+        updated.directorId = tmdb.directorId;
+        updated.leadActorPhoto = tmdb.leadActorPhoto;
+        if (tmdb.leadActorPhoto) photoCount++;
+        updated.tmdbId = tmdb.tmdbId;
+        const filmography = await getFilmographyData(tmdb.directorId, tmdb.tmdbId);
+        updated.filmographyTitle = filmography?.title ?? null;
+        updated.filmographyPoster = filmography?.poster ?? null;
+        if (updated.filmographyTitle) filmographyCount++;
         results[i] = updated;
       }
       // TMDb free tier: 40 req/10s. Two calls per movie → ~3 movies/s
@@ -123,7 +170,7 @@ async function enrichFromTmdb(results) {
     }
   }
 
-  console.log(`\nTMDb — studio filled: ${studioCount}, box office filled: ${boxOfficeCount}`);
+  console.log(`\nTMDb — studio: ${studioCount}, box office: ${boxOfficeCount}, taglines: ${taglineCount}, photos: ${photoCount}, filmography: ${filmographyCount}`);
   return results;
 }
 
