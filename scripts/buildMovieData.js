@@ -136,13 +136,13 @@ async function enrichFromTmdb(results) {
     return results;
   }
 
-  const toEnrich = results.filter(m => !m.studio || !m.boxOffice || !('tagline' in m));
+  const toEnrich = results.filter(m => !m.studio || !m.boxOffice || !('tagline' in m) || !('filmographyPoster' in m));
   console.log(`\nEnriching ${toEnrich.length} movies via TMDb...`);
 
   let studioCount = 0, boxOfficeCount = 0, taglineCount = 0, photoCount = 0, filmographyCount = 0;
   for (let i = 0; i < results.length; i++) {
     const movie = results[i];
-    if (movie.studio && movie.boxOffice && 'tagline' in movie) continue;
+    if (movie.studio && movie.boxOffice && 'tagline' in movie && 'filmographyPoster' in movie) continue;
 
     try {
       process.stdout.write(`\r  [${i + 1}/${results.length}] ${movie.title}          `);

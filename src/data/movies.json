@@ -24,7 +24,8 @@
     "directorId": 1280021,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
     "tmdbId": 1325734,
-    "filmographyTitle": "Dream Scenario"
+    "filmographyTitle": "Dream Scenario",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2RSMu2iMDCdMKmvBWWvcmE8vjMj.jpg"
   },
   {
     "id": "tt31514146",
@@ -50,7 +51,8 @@
     "directorId": 64045,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/o7qAOrcW70LD4oz8fcubZUcYDAU.jpg",
     "tmdbId": 1317149,
-    "filmographyTitle": "Nanny McPhee"
+    "filmographyTitle": "Nanny McPhee",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/8tommndfI0W62teXwSmXdmVZ7gz.jpg"
   },
   {
     "id": "tt32321317",
@@ -77,7 +79,8 @@
     "directorId": 1941982,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/b0pHwi2MeqxEpeWnF4Llihu53aJ.jpg",
     "tmdbId": 1287141,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt35231039",
@@ -102,7 +105,8 @@
     "directorId": 142670,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/5M0Bk6ix0yNP1iuut3a1BKt3RyH.jpg",
     "tmdbId": 1379266,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt14849194",
@@ -128,7 +132,8 @@
     "directorId": 13235,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg",
     "tmdbId": 840430,
-    "filmographyTitle": "Downsizing"
+    "filmographyTitle": "Downsizing",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg"
   },
   {
     "id": "tt1527793",
@@ -155,7 +160,8 @@
     "directorId": 10099,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg",
     "tmdbId": 639988,
-    "filmographyTitle": "Oldboy"
+    "filmographyTitle": "Oldboy",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
   },
   {
     "id": "tt30220107",
@@ -207,7 +213,8 @@
     "directorId": 1264682,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg",
     "tmdbId": 1208348,
-    "filmographyTitle": "37 Seconds"
+    "filmographyTitle": "37 Seconds",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/kM70qpiQ3P1agNAZwlsUrBnv6Nw.jpg"
   },
   {
     "id": "tt1433811",
@@ -234,7 +241,8 @@
     "directorId": 82839,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/h6Sl1afuHMwnyqcxannecceIg4K.jpg",
     "tmdbId": 127517,
-    "filmographyTitle": "Semper Fi"
+    "filmographyTitle": "Semper Fi",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/7OEnUJemQZuKFyxXYlmRznoUemX.jpg"
   },
   {
     "id": "tt9362736",
@@ -260,7 +268,8 @@
     "directorId": 83287,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg",
     "tmdbId": 1033148,
-    "filmographyTitle": "We Need to Talk About Kevin"
+    "filmographyTitle": "We Need to Talk About Kevin",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg"
   },
   {
     "id": "tt32916440",
@@ -286,7 +295,8 @@
     "directorId": 129561,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg",
     "tmdbId": 1317288,
-    "filmographyTitle": "Uncut Gems"
+    "filmographyTitle": "Uncut Gems",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
   },
   {
     "id": "tt0097165",
@@ -312,7 +322,8 @@
     "directorId": 2690,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg",
     "tmdbId": 207,
-    "filmographyTitle": "The Truman Show"
+    "filmographyTitle": "The Truman Show",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
   },
   {
     "id": "tt31322753",
@@ -338,7 +349,8 @@
     "directorId": 1483302,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/xN3GdvIlqsR838gDoblhPH0numP.jpg",
     "tmdbId": 1245347,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt34966650",
@@ -363,7 +375,8 @@
     "directorId": 74060,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/6EjwwOsd8n5qaxb34VCwDmKUKsC.jpg",
     "tmdbId": 1400381,
-    "filmographyTitle": "Every Secret Thing"
+    "filmographyTitle": "Every Secret Thing",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jR3rrAtFhK6MufgJIlNYoo0Iyfd.jpg"
   },
   {
     "id": "tt6156138",
@@ -442,7 +455,8 @@
     "directorId": 45405,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yRvs8qHr39WLQpBMQEfVy2t3zUj.jpg",
     "tmdbId": 1421990,
-    "filmographyTitle": "Jeff, Who Lives at Home"
+    "filmographyTitle": "Jeff, Who Lives at Home",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/9zn7I5dmZ7IGng87gWVk9K37eq7.jpg"
   },
   {
     "id": "tt19637052",
@@ -469,7 +483,8 @@
     "directorId": 2219327,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg",
     "tmdbId": 948549,
-    "filmographyTitle": "Saint Maud"
+    "filmographyTitle": "Saint Maud",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg"
   },
   {
     "id": "tt20851874",
@@ -495,7 +510,8 @@
     "directorId": 52849,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/aup2QeIbDiRkajUA7xq4ep2uVkX.jpg",
     "tmdbId": 983406,
-    "filmographyTitle": "Louis C.K.: Hilarious"
+    "filmographyTitle": "Louis C.K.: Hilarious",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/8mJMrrT4tkfZLMFvKQ0Hq6jlXbp.jpg"
   },
   {
     "id": "tt30505698",
@@ -520,7 +536,8 @@
     "directorId": 1572159,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tS0CF1hO6sUd6GGdBnz5lkHpeaG.jpg",
     "tmdbId": 1239655,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt27476906",
@@ -545,7 +562,8 @@
     "directorId": 586285,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/5JDRKkuaGEzXQzhQGXJUkCD2LAz.jpg",
     "tmdbId": 1257407,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt29482291",
@@ -570,7 +588,8 @@
     "directorId": 4387,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lJJ9WjZJI6cVCpFTsXoHqSDW23v.jpg",
     "tmdbId": 1171634,
-    "filmographyTitle": "Young & Beautiful"
+    "filmographyTitle": "Young & Beautiful",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4RSjzqKIqL5g2OxVIEZQ6ksP1MW.jpg"
   },
   {
     "id": "tt11687002",
@@ -596,7 +615,8 @@
     "directorId": 1304847,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/w88uhQ5f8CXw9pQx5HtDrDpzQ4x.jpg",
     "tmdbId": 785542,
-    "filmographyTitle": "The Unforgivable"
+    "filmographyTitle": "The Unforgivable",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/1b3dNFDuE7i05TJlXrIC571yR01.jpg"
   },
   {
     "id": "tt30134880",
@@ -619,7 +639,8 @@
     "directorId": 1244073,
     "leadActorPhoto": null,
     "tmdbId": 1214522,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt34080409",
@@ -668,7 +689,8 @@
     "directorId": 2425997,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/d5BYFTCrBQWf48MfwoKjkN7MaOx.jpg",
     "tmdbId": 637053,
-    "filmographyTitle": "Cha Cha Real Smooth"
+    "filmographyTitle": "Cha Cha Real Smooth",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/iUvoVhvwTlP8DofoqeIu7QAGLAe.jpg"
   },
   {
     "id": "tt1816518",
@@ -692,10 +714,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NzA5ODY4M15BMl5BanBnXkFtZTgwMzU5ODMwMTE@._V1_SX300.jpg",
     "studio": "Les Armateurs",
     "tagline": "Bonnie and Clyde, Sid and Nancy...",
-    "directorId": 126597,
+    "directorId": 126599,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/igYOgcbWoe8g7WoNG4RaaS68nFO.jpg",
     "tmdbId": 126319,
-    "filmographyTitle": "A Town Called Panic"
+    "filmographyTitle": "A Town Called Panic",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/9Q1jtFU1zutKsAR9lwAl6YMkgZM.jpg"
   },
   {
     "id": "tt1152850",
@@ -720,7 +743,8 @@
     "directorId": 56383,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg",
     "tmdbId": 8942,
-    "filmographyTitle": "First Cow"
+    "filmographyTitle": "First Cow",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg"
   },
   {
     "id": "tt29344903",
@@ -747,7 +771,8 @@
     "directorId": 1480411,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/wRsFFN1lhGcVM5kQFnLRW0wlQXR.jpg",
     "tmdbId": 1284120,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt28613536",
@@ -773,7 +798,8 @@
     "directorId": 2826360,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/aBn55j0WkXEV977j2oN3TmgSaF3.jpg",
     "tmdbId": 1169789,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt10236164",
@@ -800,7 +826,8 @@
     "directorId": 130690,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/2ROtesSqxXDT9IszpKkspsHp42O.jpg",
     "tmdbId": 1232827,
-    "filmographyTitle": "Sweat"
+    "filmographyTitle": "Sweat",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/w14VAFlUKl3rCx6P8AHhkqowIeT.jpg"
   },
   {
     "id": "tt14961016",
@@ -827,7 +854,8 @@
     "directorId": 8574,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dkxdADNwbM7ZLQK5YBNeKBqVJNM.jpg",
     "tmdbId": 1000837,
-    "filmographyTitle": "The Motorcycle Diaries"
+    "filmographyTitle": "The Motorcycle Diaries",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg"
   },
   {
     "id": "tt14253846",
@@ -854,7 +882,8 @@
     "directorId": 32685,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tS9HnCx8cHaoLLruGxbti4xkzkm.jpg",
     "tmdbId": 833339,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt30317033",
@@ -879,7 +908,8 @@
     "directorId": 1879846,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/wiSim6nG9TSY4AO8KOwsaaPJ0EH.jpg",
     "tmdbId": 1067485,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt11563598",
@@ -906,7 +936,8 @@
     "directorId": 366,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg",
     "tmdbId": 661539,
-    "filmographyTitle": "Logan"
+    "filmographyTitle": "Logan",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
   },
   {
     "id": "tt30057084",
@@ -933,7 +964,8 @@
     "directorId": 39847,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
     "tmdbId": 1097549,
-    "filmographyTitle": "Bodies Bodies Bodies"
+    "filmographyTitle": "Bodies Bodies Bodies",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg"
   },
   {
     "id": "tt23778968",
@@ -959,7 +991,8 @@
     "directorId": 1585080,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/a7vkoLhc8JGkdvDbHvpgKKHUPHH.jpg",
     "tmdbId": 1051891,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt2576852",
@@ -986,7 +1019,8 @@
     "directorId": 628,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/65ZiHTem1HFNx4aHBcqQPdRRsPn.jpg",
     "tmdbId": 149871,
-    "filmographyTitle": "Grave of the Fireflies"
+    "filmographyTitle": "Grave of the Fireflies",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg"
   },
   {
     "id": "tt27403986",
@@ -1013,7 +1047,8 @@
     "directorId": 190,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg",
     "tmdbId": 1106739,
-    "filmographyTitle": "American Sniper"
+    "filmographyTitle": "American Sniper",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vJgtfUmZE5i4L12sOryAPuBa04K.jpg"
   },
   {
     "id": "tt26745321",
@@ -1038,7 +1073,8 @@
     "directorId": 1502652,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg",
     "tmdbId": 1144681,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt28277817",
@@ -1063,7 +1099,8 @@
     "directorId": 71082,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/9ARu01HPASynMl3aPL9T6whr2mG.jpg",
     "tmdbId": 1128752,
-    "filmographyTitle": "Fish Tank"
+    "filmographyTitle": "Fish Tank",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg"
   },
   {
     "id": "tt0347149",
@@ -1090,7 +1127,8 @@
     "directorId": 608,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/b8ANR4WfdUZtoU4ktlnMFzbq759.jpg",
     "tmdbId": 4935,
-    "filmographyTitle": "Spirited Away"
+    "filmographyTitle": "Spirited Away",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
   },
   {
     "id": "tt31392609",
@@ -1117,7 +1155,8 @@
     "directorId": 2730142,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/nZfBA7yWpRZk5PUDxa5QGA6lxvF.jpg",
     "tmdbId": 1103621,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt21823606",
@@ -1143,7 +1182,8 @@
     "directorId": 44735,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg",
     "tmdbId": 1013850,
-    "filmographyTitle": "When You Finish Saving the World"
+    "filmographyTitle": "When You Finish Saving the World",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg"
   },
   {
     "id": "tt19811010",
@@ -1197,7 +1237,8 @@
     "directorId": 92733,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/6aHeil5eCT0a1islyD3F93WsKm6.jpg",
     "tmdbId": 1064486,
-    "filmographyTitle": "Mary and Max"
+    "filmographyTitle": "Mary and Max",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/ebmsM382m9IClLUzKYY2U5biFwM.jpg"
   },
   {
     "id": "tt28607951",
@@ -1224,7 +1265,8 @@
     "directorId": 118415,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/nsWQNYBTBYE2TCzGpyXTpA0TTEz.jpg",
     "tmdbId": 1064213,
-    "filmographyTitle": "The Florida Project"
+    "filmographyTitle": "The Florida Project",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg"
   },
   {
     "id": "tt28015403",
@@ -1250,7 +1292,8 @@
     "directorId": 1317685,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg",
     "tmdbId": 1138194,
-    "filmographyTitle": "65"
+    "filmographyTitle": "65",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rzRb63TldOKdKydCvWJM8B6EkPM.jpg"
   },
   {
     "id": "tt5323662",
@@ -1276,7 +1319,8 @@
     "directorId": 1072778,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg",
     "tmdbId": 378064,
-    "filmographyTitle": "Tamako Love Story"
+    "filmographyTitle": "Tamako Love Story",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/m59jfWqV6h3GAud7tSPShTXW6ZH.jpg"
   },
   {
     "id": "tt22803220",
@@ -1301,7 +1345,8 @@
     "directorId": 1574577,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/u2ig0kkgxq36BMbFQ4DEWfu5G3A.jpg",
     "tmdbId": 1082543,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt17526714",
@@ -1328,7 +1373,8 @@
     "directorId": 1607016,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg",
     "tmdbId": 933260,
-    "filmographyTitle": "Revenge"
+    "filmographyTitle": "Revenge",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/AbWKFxt459cWYTNPTcbpB0i2hQp.jpg"
   },
   {
     "id": "tt0983213",
@@ -1355,7 +1401,8 @@
     "directorId": 74091,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/2ydE4b4j3gFmx7kPPrGOuVyM4DX.jpg",
     "tmdbId": 38142,
-    "filmographyTitle": "Your Name."
+    "filmographyTitle": "Your Name.",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/q719jXXEzOoYaps6babgKnONONX.jpg"
   },
   {
     "id": "tt0113824",
@@ -1382,7 +1429,8 @@
     "directorId": 555254,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/g3rdj5AR2lsl8cpDj99LsKfl6DH.jpg",
     "tmdbId": 37797,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt5311514",
@@ -1409,7 +1457,8 @@
     "directorId": 74091,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg",
     "tmdbId": 372058,
-    "filmographyTitle": "Weathering with You"
+    "filmographyTitle": "Weathering with You",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg"
   },
   {
     "id": "tt0097814",
@@ -1436,7 +1485,8 @@
     "directorId": 608,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4Gunxt2UWnAX74ZoXKtqK2rI0e.jpg",
     "tmdbId": 16859,
-    "filmographyTitle": "Spirited Away"
+    "filmographyTitle": "Spirited Away",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
   },
   {
     "id": "tt0876563",
@@ -1463,7 +1513,8 @@
     "directorId": 608,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tCI0CLCBXFme17d8aiyc7oxiwlC.jpg",
     "tmdbId": 12429,
-    "filmographyTitle": "Spirited Away"
+    "filmographyTitle": "Spirited Away",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
   },
   {
     "id": "tt21097228",
@@ -1489,7 +1540,8 @@
     "directorId": 1184053,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg",
     "tmdbId": 989662,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt1568921",
@@ -1516,7 +1568,8 @@
     "directorId": 144476,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/wfacZjLuVkaiW32ZNZqdjfLFNxC.jpg",
     "tmdbId": 51739,
-    "filmographyTitle": "When Marnie Was There"
+    "filmographyTitle": "When Marnie Was There",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg"
   },
   {
     "id": "tt0347618",
@@ -1543,7 +1596,8 @@
     "directorId": 78173,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tTwFWVFsi9h8UXo9oOdOixObR0W.jpg",
     "tmdbId": 15370,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0096283",
@@ -1570,7 +1624,8 @@
     "directorId": 608,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/43OuwsjqGf7JxpFpUvB75OdDDXQ.jpg",
     "tmdbId": 8392,
-    "filmographyTitle": "Spirited Away"
+    "filmographyTitle": "Spirited Away",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
   },
   {
     "id": "tt31711040",
@@ -1596,7 +1651,8 @@
     "directorId": 1456621,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/qTAQsncBLnNtQkkKayVGnqEY9dZ.jpg",
     "tmdbId": 1244492,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt8368368",
@@ -1623,7 +1679,8 @@
     "directorId": 1574550,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg",
     "tmdbId": 1182047,
-    "filmographyTitle": "Border"
+    "filmographyTitle": "Border",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/8KzOTRlKjdAKQTemV41hq86ldFS.jpg"
   },
   {
     "id": "tt7737800",
@@ -1676,7 +1733,8 @@
     "directorId": 2355854,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/cy7BAIoU9PVvaADzaHb8Uykelhq.jpg",
     "tmdbId": 1122618,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt15257116",
@@ -1729,7 +1787,8 @@
     "directorId": 66193,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/y40Wu1T742kynOqtwXASc5Qgm49.jpg",
     "tmdbId": 1184918,
-    "filmographyTitle": "How to Train Your Dragon"
+    "filmographyTitle": "How to Train Your Dragon",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
   },
   {
     "id": "tt12443946",
@@ -1754,7 +1813,8 @@
     "directorId": 130690,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/30walVoEuW2hn7LQuJXsaZZqQ0m.jpg",
     "tmdbId": 712121,
-    "filmographyTitle": "The Girl with the Needle"
+    "filmographyTitle": "The Girl with the Needle",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
   },
   {
     "id": "tt11464016",
@@ -1777,7 +1837,8 @@
     "directorId": 998555,
     "leadActorPhoto": null,
     "tmdbId": 664601,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt8174412",
@@ -1830,7 +1891,8 @@
     "directorId": 1328012,
     "leadActorPhoto": null,
     "tmdbId": 823219,
-    "filmographyTitle": "Away"
+    "filmographyTitle": "Away",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/c59eplVELdwrUfGBUAZVin3HfaL.jpg"
   },
   {
     "id": "tt30319503",
@@ -1856,7 +1918,8 @@
     "directorId": 2602036,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4vYS9NuDUFhzT9B9pFyjDTeNZiY.jpg",
     "tmdbId": 1158915,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt31189897",
@@ -1908,7 +1971,8 @@
     "directorId": 78160,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
     "tmdbId": 937287,
-    "filmographyTitle": "Call Me by Your Name"
+    "filmographyTitle": "Call Me by Your Name",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg"
   },
   {
     "id": "tt20234774",
@@ -1935,7 +1999,8 @@
     "directorId": 1096867,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4kceB4JYBcFTdzVhfq3cDnExcGa.jpg",
     "tmdbId": 975773,
-    "filmographyTitle": "Me Before You"
+    "filmographyTitle": "Me Before You",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg"
   },
   {
     "id": "tt13531468",
@@ -1961,7 +2026,8 @@
     "directorId": 17520,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/9KJZhRxzMMDlwR8A9GpSPXLZ25W.jpg",
     "tmdbId": 771077,
-    "filmographyTitle": "The Spanish Apartment"
+    "filmographyTitle": "The Spanish Apartment",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/baDm4V3Dqx2hNh7WF1NvGrHGgqQ.jpg"
   },
   {
     "id": "tt26699529",
@@ -1988,7 +2054,8 @@
     "directorId": 1145355,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4igT9ZxHs26m6ttyMcZH50NrWgd.jpg",
     "tmdbId": 960033,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0239894",
@@ -2067,7 +2134,8 @@
     "directorId": 1504740,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zVmrUsxaLDiWyIKtMxX5N12D6G8.jpg",
     "tmdbId": 1075175,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt21064584",
@@ -2094,7 +2162,8 @@
     "directorId": 527607,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/6oXNHv7gAyXXYFpF943pKRsTtqQ.jpg",
     "tmdbId": 850165,
-    "filmographyTitle": "Martha Marcy May Marlene"
+    "filmographyTitle": "Martha Marcy May Marlene",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/bgB4sa9UfCyGdamfKAZXyEWuAwR.jpg"
   },
   {
     "id": "tt7160372",
@@ -2121,7 +2190,8 @@
     "directorId": 66728,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/e991OjrO8tjAxoPzhg5vjNDHaou.jpg",
     "tmdbId": 467244,
-    "filmographyTitle": "Under the Skin"
+    "filmographyTitle": "Under the Skin",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/55wmcXJIDYITr7JDijJTdvwSaAv.jpg"
   },
   {
     "id": "tt23561236",
@@ -2147,7 +2217,8 @@
     "directorId": 1893777,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yGcuHGW4glqRpOPxgiCvjcren7F.jpg",
     "tmdbId": 1056360,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt9058654",
@@ -2202,7 +2273,8 @@
     "directorId": 122423,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg",
     "tmdbId": 792307,
-    "filmographyTitle": "The Lobster"
+    "filmographyTitle": "The Lobster",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg"
   },
   {
     "id": "tt1714210",
@@ -2228,7 +2300,8 @@
     "directorId": 586002,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rELdKWWjX4l2r0Eoqdxtu2Hs4J0.jpg",
     "tmdbId": 79120,
-    "filmographyTitle": "All of Us Strangers"
+    "filmographyTitle": "All of Us Strangers",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg"
   },
   {
     "id": "tt21192142",
@@ -2254,7 +2327,8 @@
     "directorId": 586002,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg",
     "tmdbId": 994108,
-    "filmographyTitle": "45 Years"
+    "filmographyTitle": "45 Years",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/8elIJYYXWq2HpcZ6TgVMC9EwTnn.jpg"
   },
   {
     "id": "tt17009348",
@@ -2281,7 +2355,8 @@
     "directorId": 59,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/8M5lPHrERwAIfWK56RkH30FOjhV.jpg",
     "tmdbId": 944401,
-    "filmographyTitle": "Lucy"
+    "filmographyTitle": "Lucy",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg"
   },
   {
     "id": "tt29142525",
@@ -2334,7 +2409,8 @@
     "directorId": 55934,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg",
     "tmdbId": 621587,
-    "filmographyTitle": "Thor: Ragnarok"
+    "filmographyTitle": "Thor: Ragnarok",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
   },
   {
     "id": "tt0408664",
@@ -2359,7 +2435,8 @@
     "directorId": 25645,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/7gk7OBP0r51M897sRZseU7n3OMm.jpg",
     "tmdbId": 2517,
-    "filmographyTitle": "Shoplifters"
+    "filmographyTitle": "Shoplifters",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg"
   },
   {
     "id": "tt16277242",
@@ -2386,7 +2463,8 @@
     "directorId": 51894,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ebRL8vHFjA0vCYw66CmUa4UJ9Be.jpg",
     "tmdbId": 906126,
-    "filmographyTitle": "Jurassic World: Fallen Kingdom"
+    "filmographyTitle": "Jurassic World: Fallen Kingdom",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg"
   },
   {
     "id": "tt0297721",
@@ -2413,7 +2491,8 @@
     "directorId": 55785,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/78ACMc1I37krWbGRlH7OHZFiSUt.jpg",
     "tmdbId": 16664,
-    "filmographyTitle": "New York, I Love You"
+    "filmographyTitle": "New York, I Love You",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/nnuoA0R0kUCu88xZGiv2mK02Hoz.jpg"
   },
   {
     "id": "tt26612950",
@@ -2438,7 +2517,8 @@
     "directorId": 1584382,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dXs2srrTNOTOZXNa0UOaO9xx2QL.jpg",
     "tmdbId": 998022,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt17351924",
@@ -2464,7 +2544,8 @@
     "directorId": 1252934,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ngoitknM6hw8fffLywyvjzy6Iti.jpg",
     "tmdbId": 930564,
-    "filmographyTitle": "Promising Young Woman"
+    "filmographyTitle": "Promising Young Woman",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg"
   },
   {
     "id": "tt13968674",
@@ -2518,7 +2599,8 @@
     "directorId": 1736559,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/biZO0bWvL5PalSDYbVgdHhrFTHi.jpg",
     "tmdbId": 935906,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt11548822",
@@ -2541,7 +2623,8 @@
     "directorId": 71082,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tT4Fvgdf4botog4U8rtXsLF5KJG.jpg",
     "tmdbId": 661348,
-    "filmographyTitle": "Fish Tank"
+    "filmographyTitle": "Fish Tank",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg"
   },
   {
     "id": "tt17076046",
@@ -2595,7 +2678,8 @@
     "directorId": 56383,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg",
     "tmdbId": 790416,
-    "filmographyTitle": "First Cow"
+    "filmographyTitle": "First Cow",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg"
   },
   {
     "id": "tt25471950",
@@ -2648,7 +2732,8 @@
     "directorId": 1976040,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zvx8lP4p3gvijQLg235e3xjxrFG.jpg",
     "tmdbId": 814776,
-    "filmographyTitle": "Shiva Baby"
+    "filmographyTitle": "Shiva Baby",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg"
   },
   {
     "id": "tt17009710",
@@ -2675,7 +2760,8 @@
     "directorId": 1175620,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg",
     "tmdbId": 915935,
-    "filmographyTitle": "Sibyl"
+    "filmographyTitle": "Sibyl",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/9W4pznUF8Np6qHExgclaRHVHzom.jpg"
   },
   {
     "id": "tt23736044",
@@ -2702,7 +2788,8 @@
     "directorId": 25645,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg",
     "tmdbId": 1050035,
-    "filmographyTitle": "Shoplifters"
+    "filmographyTitle": "Shoplifters",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg"
   },
   {
     "id": "tt13429870",
@@ -2729,7 +2816,8 @@
     "directorId": 95528,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ixxMNjDFVN3dscWoQrl5eEnA94m.jpg",
     "tmdbId": 838240,
-    "filmographyTitle": "Blancanieves"
+    "filmographyTitle": "Blancanieves",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/yJzYcX23DdwR6S4XBEy1SDdiApe.jpg"
   },
   {
     "id": "tt13238346",
@@ -2755,7 +2843,8 @@
     "directorId": 2518227,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/6SydTis4XUcovlwIGskT59JowLX.jpg",
     "tmdbId": 666277,
-    "filmographyTitle": "Materialists"
+    "filmographyTitle": "Materialists",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg"
   },
   {
     "id": "tt15153532",
@@ -2781,7 +2870,8 @@
     "directorId": 1152054,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yjGbyQzVjpQl8xFkFGa7JxKZWQb.jpg",
     "tmdbId": 912908,
-    "filmographyTitle": "Barb & Star Go to Vista Del Mar"
+    "filmographyTitle": "Barb & Star Go to Vista Del Mar",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/m0kQFuMSe6ImokuyG9xfRPtWLQ4.jpg"
   },
   {
     "id": "tt8649344",
@@ -2807,7 +2897,8 @@
     "directorId": 1674275,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zop5fp2NdwYmf0sd6E3HZC9RTU4.jpg",
     "tmdbId": 971699,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt13328824",
@@ -2862,7 +2953,8 @@
     "directorId": 1280021,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/bEG4jhwZB2zrY5COMhkhAzDDQ50.jpg",
     "tmdbId": 788734,
-    "filmographyTitle": "Dream Scenario"
+    "filmographyTitle": "Dream Scenario",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2RSMu2iMDCdMKmvBWWvcmE8vjMj.jpg"
   },
   {
     "id": "tt13456340",
@@ -2943,7 +3035,8 @@
     "directorId": 1625850,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mBgZ6YElr912iCMXs7w5UDR5m90.jpg",
     "tmdbId": 962543,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt9185206",
@@ -2970,7 +3063,8 @@
     "directorId": 983909,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/DPIxORe7Sco6xVIKVbIsHlRYCI.jpg",
     "tmdbId": 555285,
-    "filmographyTitle": "The Edge of Seventeen"
+    "filmographyTitle": "The Edge of Seventeen",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/iY5UEYuGxHfaYJ3vAUAWwFGMV7V.jpg"
   },
   {
     "id": "tt0362004",
@@ -2996,7 +3090,8 @@
     "directorId": 66605,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/k8L89k5xEk7hN3TUKkEFUcPzSxh.jpg",
     "tmdbId": 13073,
-    "filmographyTitle": "Happiness"
+    "filmographyTitle": "Happiness",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg"
   },
   {
     "id": "tt0250081",
@@ -3023,7 +3118,8 @@
     "directorId": 66605,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/2rO5eN6hDB0JxMMZHxNKEuMRm1m.jpg",
     "tmdbId": 16550,
-    "filmographyTitle": "Happiness"
+    "filmographyTitle": "Happiness",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg"
   },
   {
     "id": "tt14153080",
@@ -3048,7 +3144,8 @@
     "directorId": 5367,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/wcDXv5Oc8w01QfxJMla96xIDROT.jpg",
     "tmdbId": 800787,
-    "filmographyTitle": "Going in Style"
+    "filmographyTitle": "Going in Style",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg"
   },
   {
     "id": "tt3172532",
@@ -3075,7 +3172,8 @@
     "directorId": 177532,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/xlzi5lol9UBvYK9Dw8AEQObSbrm.jpg",
     "tmdbId": 250124,
-    "filmographyTitle": "A Beautiful Day in the Neighborhood"
+    "filmographyTitle": "A Beautiful Day in the Neighborhood",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/p9vCAVhDK375XyobVcKqzqzsUHE.jpg"
   },
   {
     "id": "tt10855768",
@@ -3102,7 +3200,8 @@
     "directorId": 2093036,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/c5ld0nVHZ2dv25Jhn5DpXwTlXyH.jpg",
     "tmdbId": 768362,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt9660502",
@@ -3127,7 +3226,8 @@
     "directorId": 1274468,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/9u8byzr9LpFvuvYk7bep6l8U5Ow.jpg",
     "tmdbId": 901563,
-    "filmographyTitle": "Girl"
+    "filmographyTitle": "Girl",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg"
   },
   {
     "id": "tt0903657",
@@ -3154,7 +3254,8 @@
     "directorId": 46588,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/aoMS5ITUgDfLyHIyjes7BO9oCIz.jpg",
     "tmdbId": 271714,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0120663",
@@ -3181,7 +3282,8 @@
     "directorId": 240,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg",
     "tmdbId": 345,
-    "filmographyTitle": "The Shining"
+    "filmographyTitle": "The Shining",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg"
   },
   {
     "id": "tt0079417",
@@ -3206,7 +3308,8 @@
     "directorId": 6729,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yxNGnTiou25c3zjppT5dW2eWAve.jpg",
     "tmdbId": 12102,
-    "filmographyTitle": "The Human Stain"
+    "filmographyTitle": "The Human Stain",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/zRgYzYpcXyXznlSc4swqNpXcnVs.jpg"
   },
   {
     "id": "tt2229499",
@@ -3233,7 +3336,8 @@
     "directorId": 24045,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg",
     "tmdbId": 138697,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0443453",
@@ -3258,7 +3362,8 @@
     "directorId": 6767,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg",
     "tmdbId": 496,
-    "filmographyTitle": "The Dictator"
+    "filmographyTitle": "The Dictator",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/n0W7kajF4GFMRk2c0wWwMQqTaDM.jpg"
   },
   {
     "id": "tt0110005",
@@ -3285,7 +3390,8 @@
     "directorId": 108,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg",
     "tmdbId": 1024,
-    "filmographyTitle": "The Lord of the Rings: The Fellowship of the Ring"
+    "filmographyTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
   },
   {
     "id": "tt0327597",
@@ -3312,7 +3418,8 @@
     "directorId": 57646,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/oIFKESMZrYstAQcHidzpHKJNJiI.jpg",
     "tmdbId": 14836,
-    "filmographyTitle": "The Nightmare Before Christmas"
+    "filmographyTitle": "The Nightmare Before Christmas",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
   },
   {
     "id": "tt0050083",
@@ -3338,7 +3445,8 @@
     "directorId": 39996,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg",
     "tmdbId": 389,
-    "filmographyTitle": "Dog Day Afternoon"
+    "filmographyTitle": "Dog Day Afternoon",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg"
   },
   {
     "id": "tt0110357",
@@ -3365,7 +3473,8 @@
     "directorId": 15812,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/papqFgpyroZJEqd7WvuNGN8ti2k.jpg",
     "tmdbId": 8587,
-    "filmographyTitle": "Open Season"
+    "filmographyTitle": "Open Season",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/w5Lctmkc1yah215Luxmci4djaiW.jpg"
   },
   {
     "id": "tt1682181",
@@ -3391,7 +3500,8 @@
     "directorId": 89411,
     "leadActorPhoto": null,
     "tmdbId": 84404,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt2545118",
@@ -3418,7 +3528,8 @@
     "directorId": 1045176,
     "leadActorPhoto": null,
     "tmdbId": 158999,
-    "filmographyTitle": "Megan Leavey"
+    "filmographyTitle": "Megan Leavey",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg"
   },
   {
     "id": "tt0114709",
@@ -3445,7 +3556,8 @@
     "directorId": 7879,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
     "tmdbId": 862,
-    "filmographyTitle": "Cars"
+    "filmographyTitle": "Cars",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
   },
   {
     "id": "tt0435761",
@@ -3472,7 +3584,8 @@
     "directorId": 8,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
     "tmdbId": 10193,
-    "filmographyTitle": "Coco"
+    "filmographyTitle": "Coco",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
   },
   {
     "id": "tt0910970",
@@ -3499,7 +3612,8 @@
     "directorId": 7,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/7asFDWjls2bYQSfXJf5StjXmlhI.jpg",
     "tmdbId": 10681,
-    "filmographyTitle": "Finding Nemo"
+    "filmographyTitle": "Finding Nemo",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg"
   },
   {
     "id": "tt0109830",
@@ -3525,7 +3639,8 @@
     "directorId": 24,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
     "tmdbId": 13,
-    "filmographyTitle": "Back to the Future"
+    "filmographyTitle": "Back to the Future",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
   },
   {
     "id": "tt0099487",
@@ -3552,7 +3667,8 @@
     "directorId": 510,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg",
     "tmdbId": 162,
-    "filmographyTitle": "Charlie and the Chocolate Factory"
+    "filmographyTitle": "Charlie and the Chocolate Factory",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg"
   },
   {
     "id": "tt19652910",
@@ -3577,7 +3693,8 @@
     "directorId": 43553,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/qO4jn3TiQ0Ig1Zf1DhHVCb4lYoe.jpg",
     "tmdbId": 785398,
-    "filmographyTitle": "Deep End"
+    "filmographyTitle": "Deep End",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/8pZxUJTgjerjxuifSU13B8pXAJB.jpg"
   },
   {
     "id": "tt13845660",
@@ -3628,7 +3745,8 @@
     "directorId": 6431,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg",
     "tmdbId": 785084,
-    "filmographyTitle": "Black Swan"
+    "filmographyTitle": "Black Swan",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/viWheBd44bouiLCHgNMvahLThqx.jpg"
   },
   {
     "id": "tt9764362",
@@ -3655,7 +3773,8 @@
     "directorId": 57199,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg",
     "tmdbId": 593643,
-    "filmographyTitle": "What's Your Number?"
+    "filmographyTitle": "What's Your Number?",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/eqn3UeXMY9W1Ow3jIZ6COqbjUWX.jpg"
   },
   {
     "id": "tt6160448",
@@ -3682,7 +3801,8 @@
     "directorId": 5656,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/b5w381C8Z33D1iF30KT4k8tJNsk.jpg",
     "tmdbId": 744594,
-    "filmographyTitle": "Marriage Story"
+    "filmographyTitle": "Marriage Story",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg"
   },
   {
     "id": "tt19770238",
@@ -3707,7 +3827,8 @@
     "directorId": 1904110,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg",
     "tmdbId": 965150,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt11813216",
@@ -3733,7 +3854,8 @@
     "directorId": 54472,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg",
     "tmdbId": 674324,
-    "filmographyTitle": "Three Billboards Outside Ebbing, Missouri"
+    "filmographyTitle": "Three Billboards Outside Ebbing, Missouri",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg"
   },
   {
     "id": "tt1488589",
@@ -3840,7 +3962,8 @@
     "directorId": 1366450,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg",
     "tmdbId": 823147,
-    "filmographyTitle": "Bridget Jones: Mad About the Boy"
+    "filmographyTitle": "Bridget Jones: Mad About the Boy",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/e5VR3nhLYG60znxaqU84wv4VSCb.jpg"
   },
   {
     "id": "tt2364975",
@@ -3866,7 +3989,8 @@
     "directorId": 11037,
     "leadActorPhoto": null,
     "tmdbId": 191294,
-    "filmographyTitle": "Lilya 4-ever"
+    "filmographyTitle": "Lilya 4-ever",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg"
   },
   {
     "id": "tt0300140",
@@ -3892,7 +4016,8 @@
     "directorId": 11037,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/maFsX3VV3VsSFlvpXDCn0LTTKqr.jpg",
     "tmdbId": 12093,
-    "filmographyTitle": "Show Me Love"
+    "filmographyTitle": "Show Me Love",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg"
   },
   {
     "id": "tt0071360",
@@ -3919,7 +4044,8 @@
     "directorId": 1776,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/wN8brfOI8AjngGchkQtFqfEPam5.jpg",
     "tmdbId": 592,
-    "filmographyTitle": "The Godfather"
+    "filmographyTitle": "The Godfather",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
   },
   {
     "id": "tt8801666",
@@ -4001,7 +4127,8 @@
     "directorId": 564,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg",
     "tmdbId": 405177,
-    "filmographyTitle": "The School of Rock"
+    "filmographyTitle": "The School of Rock",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg"
   },
   {
     "id": "tt13648220",
@@ -4055,7 +4182,8 @@
     "directorId": 1347619,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gFX8mM0RssC6H1XNbwYfsvq7aJE.jpg",
     "tmdbId": 284303,
-    "filmographyTitle": "The Lodge"
+    "filmographyTitle": "The Lodge",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/yake2myhbW7c6dKbmwYDy1i40bm.jpg"
   },
   {
     "id": "tt9883832",
@@ -4082,7 +4210,8 @@
     "directorId": 102109,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/qrqQJivS0zLzxZKfgNZnDtjbqpI.jpg",
     "tmdbId": 957457,
-    "filmographyTitle": "Cobain: Montage of Heck"
+    "filmographyTitle": "Cobain: Montage of Heck",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hQEkK4WnTtQXIp5QOnVTsK3xYRM.jpg"
   },
   {
     "id": "tt9204898",
@@ -4187,7 +4316,8 @@
     "directorId": 68813,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/vByQ6qSLwDr9nJVYL779PWxsIv5.jpg",
     "tmdbId": 65229,
-    "filmographyTitle": "Portrait of a Lady on Fire"
+    "filmographyTitle": "Portrait of a Lady on Fire",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg"
   },
   {
     "id": "tt9812474",
@@ -4214,7 +4344,8 @@
     "directorId": 2683196,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zkg9wfbXZi9OqvwW2ku38zNC1Hk.jpg",
     "tmdbId": 788929,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt13204490",
@@ -4240,7 +4371,8 @@
     "directorId": 68813,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4vpeQ5rn6G5EyWbrnAarTQROQPF.jpg",
     "tmdbId": 749004,
-    "filmographyTitle": "Portrait of a Lady on Fire"
+    "filmographyTitle": "Portrait of a Lady on Fire",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg"
   },
   {
     "id": "tt9735470",
@@ -4267,7 +4399,8 @@
     "directorId": 1031144,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/uxxJDkLD0DXFE2aHnqUe72njCli.jpg",
     "tmdbId": 586791,
-    "filmographyTitle": "Morris from America"
+    "filmographyTitle": "Morris from America",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/i3mFOlegdIaeZY8qHvZEtcYd8Te.jpg"
   },
   {
     "id": "tt0865297",
@@ -4293,7 +4426,8 @@
     "directorId": 55898,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/wqg6qaNkYUMviXz7irNWJGDdeZB.jpg",
     "tmdbId": 8747,
-    "filmographyTitle": "Feel the Beat"
+    "filmographyTitle": "Feel the Beat",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg"
   },
   {
     "id": "tt1262981",
@@ -4319,7 +4453,8 @@
     "directorId": 95024,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg",
     "tmdbId": 20178,
-    "filmographyTitle": "God Bless America"
+    "filmographyTitle": "God Bless America",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jEyiGve8BLOCvi8R2tL8H52aLp4.jpg"
   },
   {
     "id": "tt5016946",
@@ -4400,7 +4535,8 @@
     "directorId": 1579,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4kceB4JYBcFTdzVhfq3cDnExcGa.jpg",
     "tmdbId": 554230,
-    "filmographyTitle": "The Bride!"
+    "filmographyTitle": "The Bride!",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
   },
   {
     "id": "tt10370710",
@@ -4427,7 +4563,8 @@
     "directorId": 71609,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg",
     "tmdbId": 660120,
-    "filmographyTitle": "Thelma"
+    "filmographyTitle": "Thelma",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/fN2Qq5riCrBiVLfKqgODHC0SwVx.jpg"
   },
   {
     "id": "tt4104022",
@@ -4453,7 +4590,8 @@
     "directorId": 52413,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg",
     "tmdbId": 308027,
-    "filmographyTitle": "Love Again"
+    "filmographyTitle": "Love Again",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/koswMk0y7jGcyofV1sBccnNtY0B.jpg"
   },
   {
     "id": "tt11847410",
@@ -4505,7 +4643,8 @@
     "directorId": 1206827,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg",
     "tmdbId": 607430,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt10986222",
@@ -4530,7 +4669,8 @@
     "directorId": 17439,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg",
     "tmdbId": 632617,
-    "filmographyTitle": "20th Century Women"
+    "filmographyTitle": "20th Century Women",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/mso2rEr9i0MilRIOao5HaWFipS9.jpg"
   },
   {
     "id": "tt11271038",
@@ -4557,7 +4697,8 @@
     "directorId": 4762,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg",
     "tmdbId": 718032,
-    "filmographyTitle": "There Will Be Blood"
+    "filmographyTitle": "There Will Be Blood",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
   },
   {
     "id": "tt13694628",
@@ -4612,7 +4753,8 @@
     "directorId": 11090,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/WOpnEFG5Q8LWxP81MtUrskmVox.jpg",
     "tmdbId": 576845,
-    "filmographyTitle": "Baby Driver"
+    "filmographyTitle": "Baby Driver",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg"
   },
   {
     "id": "tt11003218",
@@ -4638,7 +4780,8 @@
     "directorId": 2580328,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
     "tmdbId": 635731,
-    "filmographyTitle": "A Quiet Place: Day One"
+    "filmographyTitle": "A Quiet Place: Day One",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hU42CRk14JuPEdqZG3AWmagiPAP.jpg"
   },
   {
     "id": "tt8396480",
@@ -4691,7 +4834,8 @@
     "directorId": 191750,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yguEO9zFvuccq87kOJpFLsmUgvs.jpg",
     "tmdbId": 807196,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt10366460",
@@ -4718,7 +4862,8 @@
     "directorId": 154865,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/xHzb3lgOAwTl2NoGtc3mmY0u8ii.jpg",
     "tmdbId": 776503,
-    "filmographyTitle": "Tallulah"
+    "filmographyTitle": "Tallulah",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/9kG86fYSa8Ug0o8RoT96Kce4URt.jpg"
   },
   {
     "id": "tt13821562",
@@ -4772,7 +4917,8 @@
     "directorId": 17114,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iDyhkjtgy7U8xl9tKk9xcJA3yEY.jpg",
     "tmdbId": 13403,
-    "filmographyTitle": "Rabbit Hole"
+    "filmographyTitle": "Rabbit Hole",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/zTUQXwMn4ndt5AAcDvJCi14ZY2B.jpg"
   },
   {
     "id": "tt1399683",
@@ -4799,7 +4945,8 @@
     "directorId": 121873,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg",
     "tmdbId": 39013,
-    "filmographyTitle": "Leave No Trace"
+    "filmographyTitle": "Leave No Trace",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg"
   },
   {
     "id": "tt10915286",
@@ -4852,7 +4999,8 @@
     "directorId": 19224,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg",
     "tmdbId": 11171,
-    "filmographyTitle": "White Bird in a Blizzard"
+    "filmographyTitle": "White Bird in a Blizzard",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/aVGYxG8kFR5EOtQ8vwdSJgIyHLy.jpg"
   },
   {
     "id": "tt9770150",
@@ -4877,7 +5025,8 @@
     "directorId": 1395183,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg",
     "tmdbId": 581734,
-    "filmographyTitle": "Eternals"
+    "filmographyTitle": "Eternals",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/lFByFSLV5WDJEv3KabbdAF959F2.jpg"
   },
   {
     "id": "tt11286640",
@@ -4902,7 +5051,8 @@
     "directorId": 57632,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/jQElUV2w7pMNEPX44qFMmr4zDDC.jpg",
     "tmdbId": 728142,
-    "filmographyTitle": "The Return"
+    "filmographyTitle": "The Return",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg"
   },
   {
     "id": "tt13329626",
@@ -4956,7 +5106,8 @@
     "directorId": 4387,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/aiQom9876RCmh9JN9tPsvYrxE9Y.jpg",
     "tmdbId": 659959,
-    "filmographyTitle": "Young & Beautiful"
+    "filmographyTitle": "Young & Beautiful",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4RSjzqKIqL5g2OxVIEZQ6ksP1MW.jpg"
   },
   {
     "id": "tt7979580",
@@ -5095,7 +5246,8 @@
     "directorId": 3556,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg",
     "tmdbId": 423,
-    "filmographyTitle": "Rosemary's Baby"
+    "filmographyTitle": "Rosemary's Baby",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg"
   },
   {
     "id": "tt2400463",
@@ -5122,7 +5274,8 @@
     "directorId": 54025,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/vOV76X3Dd8LsBxrTLdHybFLU8w8.jpg",
     "tmdbId": 306947,
-    "filmographyTitle": "Jennifer's Body"
+    "filmographyTitle": "Jennifer's Body",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg"
   },
   {
     "id": "tt2872718",
@@ -5149,7 +5302,8 @@
     "directorId": 57113,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg",
     "tmdbId": 242582,
-    "filmographyTitle": "Velvet Buzzsaw"
+    "filmographyTitle": "Velvet Buzzsaw",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/3rViQPcrWthMNecp5XnkKev6BzW.jpg"
   },
   {
     "id": "tt2316411",
@@ -5176,7 +5330,8 @@
     "directorId": 137427,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg",
     "tmdbId": 181886,
-    "filmographyTitle": "Arrival"
+    "filmographyTitle": "Arrival",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg"
   },
   {
     "id": "tt11317142",
@@ -5202,7 +5357,8 @@
     "directorId": 1976040,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zvx8lP4p3gvijQLg235e3xjxrFG.jpg",
     "tmdbId": 664300,
-    "filmographyTitle": "Bottoms"
+    "filmographyTitle": "Bottoms",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg"
   },
   {
     "id": "tt5577494",
@@ -5227,7 +5383,8 @@
     "directorId": 1150804,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/jaojqEDdOBWfDpQfdWIbvyLDy5z.jpg",
     "tmdbId": 565307,
-    "filmographyTitle": "Till"
+    "filmographyTitle": "Till",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/cmDs0CYlgioyP2AQQTTmavt3uoO.jpg"
   },
   {
     "id": "tt10785618",
@@ -5303,7 +5460,8 @@
     "directorId": 73761,
     "leadActorPhoto": null,
     "tmdbId": 656274,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt10272386",
@@ -5329,7 +5487,8 @@
     "directorId": 1150548,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dYVQTK1dPrQl1mugeLEWSSmA6Im.jpg",
     "tmdbId": 600354,
-    "filmographyTitle": "The Son"
+    "filmographyTitle": "The Son",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hYR2doH3arnX0Y6WULuBPbtaLjN.jpg"
   },
   {
     "id": "tt10633456",
@@ -5354,7 +5513,8 @@
     "directorId": 931952,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg",
     "tmdbId": 615643,
-    "filmographyTitle": "Twisters"
+    "filmographyTitle": "Twisters",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg"
   },
   {
     "id": "tt9586294",
@@ -5381,7 +5541,8 @@
     "directorId": 125105,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/vD2vVvIIx8ygzkhUQZJLkvYT1jr.jpg",
     "tmdbId": 575813,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt9620292",
@@ -5408,7 +5569,8 @@
     "directorId": 1252934,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg",
     "tmdbId": 582014,
-    "filmographyTitle": "Saltburn"
+    "filmographyTitle": "Saltburn",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/zGTfMwG112BC66mpaveVxoWPOaB.jpg"
   },
   {
     "id": "tt10199640",
@@ -5434,7 +5596,8 @@
     "directorId": 1705624,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/w3y3Fr6xoCVmBVBqtTEBrKZShj1.jpg",
     "tmdbId": 517148,
-    "filmographyTitle": "Closeness"
+    "filmographyTitle": "Closeness",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2in3p9uaX6ClqkMS8Oci69LCsXP.jpg"
   },
   {
     "id": "tt0435679",
@@ -5539,7 +5702,8 @@
     "directorId": 1769,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg",
     "tmdbId": 1443,
-    "filmographyTitle": "Lost in Translation"
+    "filmographyTitle": "Lost in Translation",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg"
   },
   {
     "id": "tt1185616",
@@ -5566,7 +5730,8 @@
     "directorId": 56198,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/cFTSHi8YSWBB81MIWsN8vzhaaMg.jpg",
     "tmdbId": 8885,
-    "filmographyTitle": "The Congress"
+    "filmographyTitle": "The Congress",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg"
   },
   {
     "id": "tt9601220",
@@ -5618,7 +5783,8 @@
     "directorId": 4453,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg",
     "tmdbId": 580175,
-    "filmographyTitle": "The Hunt"
+    "filmographyTitle": "The Hunt",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jkixsXzRh28q3PCqFoWcf7unghT.jpg"
   },
   {
     "id": "tt9626278",
@@ -5751,7 +5917,8 @@
     "directorId": 16860,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ksXTb2bvqt60bCGRwBlWrNbZHnr.jpg",
     "tmdbId": 541305,
-    "filmographyTitle": "Me and You and Everyone We Know"
+    "filmographyTitle": "Me and You and Everyone We Know",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hrj9VsInHnqSDBhEc2FvY0qd79F.jpg"
   },
   {
     "id": "tt10702148",
@@ -5776,7 +5943,8 @@
     "directorId": 1141753,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/r2ducg3w25bwuo0ywadIqLFmrRX.jpg",
     "tmdbId": 653712,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0162346",
@@ -5802,7 +5970,8 @@
     "directorId": 17447,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/xJ6Bb3C8f0ior5LlWdNzxlb8cgV.jpg",
     "tmdbId": 1548,
-    "filmographyTitle": "Bad Santa"
+    "filmographyTitle": "Bad Santa",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg"
   },
   {
     "id": "tt5363618",
@@ -5828,7 +5997,8 @@
     "directorId": 1076793,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg",
     "tmdbId": 502033,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt10642834",
@@ -5882,7 +6052,8 @@
     "directorId": 5306,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg",
     "tmdbId": 28178,
-    "filmographyTitle": "Dear John"
+    "filmographyTitle": "Dear John",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2lAPv2jQ5eh54l4EttA9wjDljED.jpg"
   },
   {
     "id": "tt8633478",
@@ -5909,7 +6080,8 @@
     "directorId": 1932296,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tJnhBV516yrekR3hTDUw15UMbxS.jpg",
     "tmdbId": 546121,
-    "filmographyTitle": "Searching"
+    "filmographyTitle": "Searching",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/yuAPCsCGJGSxA7YOW4elF5JNrzK.jpg"
   },
   {
     "id": "tt0377091",
@@ -5935,7 +6107,8 @@
     "directorId": 72034,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/6SkUiLHFlPEEFtKpLc7VrczaqDx.jpg",
     "tmdbId": 12281,
-    "filmographyTitle": "Don't Let Go"
+    "filmographyTitle": "Don't Let Go",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/uNHueGo5TYCTLzoGULse65GC32Q.jpg"
   },
   {
     "id": "tt5912454",
@@ -5961,7 +6134,8 @@
     "directorId": 1049745,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg",
     "tmdbId": 408508,
-    "filmographyTitle": "Meet Cute"
+    "filmographyTitle": "Meet Cute",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/9rp4nj7L3V5tPm2pWks4sX8NVKY.jpg"
   },
   {
     "id": "tt0113540",
@@ -5986,7 +6160,8 @@
     "directorId": 51917,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iZG9G5DstChbwlL9mAQ727heZX.jpg",
     "tmdbId": 9344,
-    "filmographyTitle": "Ken Park"
+    "filmographyTitle": "Ken Park",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/p6ElNTWEbibYlobVeiIDHBvL1kF.jpg"
   },
   {
     "id": "tt3544112",
@@ -6013,7 +6188,8 @@
     "directorId": 45117,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zkBUotUEE6WNlKzd0QPwqf8PE3T.jpg",
     "tmdbId": 369557,
-    "filmographyTitle": "Begin Again"
+    "filmographyTitle": "Begin Again",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/qx4HXHXt528hS4rwePZbZo20xqZ.jpg"
   },
   {
     "id": "tt0287467",
@@ -6040,7 +6216,8 @@
     "directorId": 309,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/pG2uOSwthuTXn8LAV2MTZbyOre9.jpg",
     "tmdbId": 64,
-    "filmographyTitle": "The Skin I Live In"
+    "filmographyTitle": "The Skin I Live In",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xa7uCwGYykrf8MMI8iF5dZvNlrG.jpg"
   },
   {
     "id": "tt2452386",
@@ -6094,7 +6271,8 @@
     "directorId": 98103,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg",
     "tmdbId": 49020,
-    "filmographyTitle": "The Double"
+    "filmographyTitle": "The Double",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/7kNcpmP1Pe9fWLKEbEOX5GEWueC.jpg"
   },
   {
     "id": "tt6212478",
@@ -6121,7 +6299,8 @@
     "directorId": 859754,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/m9okq20ca2Md38i2ekJeKs3vTwa.jpg",
     "tmdbId": 489931,
-    "filmographyTitle": "Crime 101"
+    "filmographyTitle": "Crime 101",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg"
   },
   {
     "id": "tt0117951",
@@ -6147,7 +6326,8 @@
     "directorId": 2034,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg",
     "tmdbId": 627,
-    "filmographyTitle": "Slumdog Millionaire"
+    "filmographyTitle": "Slumdog Millionaire",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg"
   },
   {
     "id": "tt0443706",
@@ -6174,7 +6354,8 @@
     "directorId": 7467,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg",
     "tmdbId": 1949,
-    "filmographyTitle": "Fight Club"
+    "filmographyTitle": "Fight Club",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
   },
   {
     "id": "tt0405159",
@@ -6200,7 +6381,8 @@
     "directorId": 190,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
     "tmdbId": 70,
-    "filmographyTitle": "American Sniper"
+    "filmographyTitle": "American Sniper",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vJgtfUmZE5i4L12sOryAPuBa04K.jpg"
   },
   {
     "id": "tt7886936",
@@ -6254,7 +6436,8 @@
     "directorId": 556172,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg",
     "tmdbId": 50839,
-    "filmographyTitle": "Triple Frontier"
+    "filmographyTitle": "Triple Frontier",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg"
   },
   {
     "id": "tt6788942",
@@ -6281,7 +6464,8 @@
     "directorId": 1197896,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/7R9ntFHCOh9FHeSByO9ElqrtCBl.jpg",
     "tmdbId": 455714,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt4385888",
@@ -6307,7 +6491,8 @@
     "directorId": 17439,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg",
     "tmdbId": 342737,
-    "filmographyTitle": "Beginners"
+    "filmographyTitle": "Beginners",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/mAquHAmoBgZ1omUNdNsnGVNX74c.jpg"
   },
   {
     "id": "tt5278506",
@@ -6334,7 +6519,8 @@
     "directorId": 1473954,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/z1ZzWc4H2RWk6sZT3kLw2qj7BzQ.jpg",
     "tmdbId": 373072,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt11394182",
@@ -6388,7 +6574,8 @@
     "directorId": 974,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg",
     "tmdbId": 504608,
-    "filmographyTitle": "Eddie the Eagle"
+    "filmographyTitle": "Eddie the Eagle",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/r562gvTRVHnDSvG7MrKHEECSn1V.jpg"
   },
   {
     "id": "tt5083738",
@@ -6415,7 +6602,8 @@
     "directorId": 122423,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg",
     "tmdbId": 375262,
-    "filmographyTitle": "The Lobster"
+    "filmographyTitle": "The Lobster",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg"
   },
   {
     "id": "tt0810819",
@@ -6441,7 +6629,8 @@
     "directorId": 70500,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg",
     "tmdbId": 306819,
-    "filmographyTitle": "The King's Speech"
+    "filmographyTitle": "The King's Speech",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg"
   },
   {
     "id": "tt0340855",
@@ -6468,7 +6657,8 @@
     "directorId": 6884,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
     "tmdbId": 504,
-    "filmographyTitle": "Wonder Woman"
+    "filmographyTitle": "Wonder Woman",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg"
   },
   {
     "id": "tt0064665",
@@ -6493,7 +6683,8 @@
     "directorId": 19304,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yxNGnTiou25c3zjppT5dW2eWAve.jpg",
     "tmdbId": 3116,
-    "filmographyTitle": "Marathon Man"
+    "filmographyTitle": "Marathon Man",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/uPNgubSiri2yvBQRPtP77ViYjN.jpg"
   },
   {
     "id": "tt4666726",
@@ -6519,7 +6710,8 @@
     "directorId": 56369,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/u1Q7HF01llNzx0yx0A8g2W0Xj9L.jpg",
     "tmdbId": 339405,
-    "filmographyTitle": "The Devil All the Time"
+    "filmographyTitle": "The Devil All the Time",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/bVL7LGq528h3KzeNI90HOVbV5uW.jpg"
   },
   {
     "id": "tt5688996",
@@ -6626,7 +6818,8 @@
     "directorId": 53068,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
     "tmdbId": 7859,
-    "filmographyTitle": "Captain Marvel"
+    "filmographyTitle": "Captain Marvel",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xsaHr76ReEII0iLwP12IJvu0Ger.jpg"
   },
   {
     "id": "tt0075314",
@@ -6652,7 +6845,8 @@
     "directorId": 1032,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
     "tmdbId": 103,
-    "filmographyTitle": "The Wolf of Wall Street"
+    "filmographyTitle": "The Wolf of Wall Street",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
   },
   {
     "id": "tt1931533",
@@ -6678,7 +6872,8 @@
     "directorId": 54472,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg",
     "tmdbId": 86838,
-    "filmographyTitle": "Three Billboards Outside Ebbing, Missouri"
+    "filmographyTitle": "Three Billboards Outside Ebbing, Missouri",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg"
   },
   {
     "id": "tt4550098",
@@ -6704,7 +6899,8 @@
     "directorId": 120615,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/1h2r2VTpoFb5QefAaBYYQgQzL9z.jpg",
     "tmdbId": 340666,
-    "filmographyTitle": "A Single Man"
+    "filmographyTitle": "A Single Man",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/AvqTb66bS1i1NjlPC76zvxo0taT.jpg"
   },
   {
     "id": "tt9016016",
@@ -6730,7 +6926,8 @@
     "directorId": 1893249,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/2UDZ9cllNcN7gYIHpBepfdDTJXF.jpg",
     "tmdbId": 576005,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt9196192",
@@ -6755,7 +6952,8 @@
     "directorId": 1513041,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/t2q8JY87NoRoSWBdz11hwLmrDFg.jpg",
     "tmdbId": 582885,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt8125842",
@@ -6863,7 +7061,8 @@
     "directorId": 186783,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
     "tmdbId": 70954,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt5929754",
@@ -6888,7 +7087,8 @@
     "directorId": 17142,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg",
     "tmdbId": 417812,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt8399664",
@@ -6915,7 +7115,8 @@
     "directorId": 2035232,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/bxSr2EH0KLN2SqQBJiITUx35cF6.jpg",
     "tmdbId": 522098,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt1560139",
@@ -6941,7 +7142,8 @@
     "directorId": 55934,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ybHxB4pBDsq5LJOnvwT9JIOiEmH.jpg",
     "tmdbId": 39356,
-    "filmographyTitle": "Thor: Ragnarok"
+    "filmographyTitle": "Thor: Ragnarok",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
   },
   {
     "id": "tt0494222",
@@ -6967,7 +7169,8 @@
     "directorId": 55934,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/b7Tu2hSU0rFmg5LHMrMlQOQ6lCW.jpg",
     "tmdbId": 8748,
-    "filmographyTitle": "Thor: Ragnarok"
+    "filmographyTitle": "Thor: Ragnarok",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
   },
   {
     "id": "tt0367089",
@@ -6993,7 +7196,8 @@
     "directorId": 5656,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg",
     "tmdbId": 10707,
-    "filmographyTitle": "Marriage Story"
+    "filmographyTitle": "Marriage Story",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg"
   },
   {
     "id": "tt0333766",
@@ -7020,7 +7224,8 @@
     "directorId": 5367,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/koIHwqE6hWIXuOIDHNADwSuGq6N.jpg",
     "tmdbId": 401,
-    "filmographyTitle": "Going in Style"
+    "filmographyTitle": "Going in Style",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg"
   },
   {
     "id": "tt2179116",
@@ -7047,7 +7252,8 @@
     "directorId": 236539,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/w0eRVqmfdLs3zHogvF0CHDSak5S.jpg",
     "tmdbId": 156700,
-    "filmographyTitle": "Kong: Skull Island"
+    "filmographyTitle": "Kong: Skull Island",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg"
   },
   {
     "id": "tt5164432",
@@ -7074,7 +7280,8 @@
     "directorId": 88967,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/w0eRVqmfdLs3zHogvF0CHDSak5S.jpg",
     "tmdbId": 449176,
-    "filmographyTitle": "Life As We Know It"
+    "filmographyTitle": "Life As We Know It",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg"
   },
   {
     "id": "tt9683478",
@@ -7127,7 +7334,8 @@
     "directorId": 68813,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/l9ECDc9GGIESuKuT5zxIJknAD33.jpg",
     "tmdbId": 531428,
-    "filmographyTitle": "Tomboy"
+    "filmographyTitle": "Tomboy",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/plEV1Q5u5caYASlG3pq3ON7acN7.jpg"
   },
   {
     "id": "tt8430598",
@@ -7154,7 +7362,8 @@
     "directorId": 1033654,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/vZDe22EtLtcHvPr28l4ZM0b7qjG.jpg",
     "tmdbId": 547017,
-    "filmographyTitle": "Madeline's Madeline"
+    "filmographyTitle": "Madeline's Madeline",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/8PcvYO5SHmPUFzdXpI2kzj3JtXN.jpg"
   },
   {
     "id": "tt8535968",
@@ -7207,7 +7416,8 @@
     "directorId": 8193,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ju7H4RLIzfrcMg2e3SUAaA9fEc6.jpg",
     "tmdbId": 582,
-    "filmographyTitle": "The Tourist"
+    "filmographyTitle": "The Tourist",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg"
   },
   {
     "id": "tt8372298",
@@ -7233,7 +7443,8 @@
     "directorId": 939502,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/8HRgGypSwHeI27ffmcAELNoxIOw.jpg",
     "tmdbId": 586461,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt7772582",
@@ -7258,7 +7469,8 @@
     "directorId": 1134669,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rIikG5VcRAWYKM0JXXc5aNI2km1.jpg",
     "tmdbId": 595671,
-    "filmographyTitle": "Beach Rats"
+    "filmographyTitle": "Beach Rats",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/oQZPPsvoipd38jasPhvJOpajbug.jpg"
   },
   {
     "id": "tt0431213",
@@ -7285,7 +7497,8 @@
     "directorId": 77104,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/cQdULVxbxK1HbgqblImXfVXkGyO.jpg",
     "tmdbId": 14597,
-    "filmographyTitle": "FairyTale: A True Story"
+    "filmographyTitle": "FairyTale: A True Story",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/5H86i0qE8zCAbg0vTBKG7S7I2Vi.jpg"
   },
   {
     "id": "tt2844798",
@@ -7312,7 +7525,8 @@
     "directorId": 56206,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/5QTZ2infRzIuYnygpq8PPKyPa5o.jpg",
     "tmdbId": 267999,
-    "filmographyTitle": "Pieces of a Woman"
+    "filmographyTitle": "Pieces of a Woman",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg"
   },
   {
     "id": "tt4846232",
@@ -7339,7 +7553,8 @@
     "directorId": 129561,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
     "tmdbId": 429200,
-    "filmographyTitle": "Uncut Gems"
+    "filmographyTitle": "Uncut Gems",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
   },
   {
     "id": "tt8652728",
@@ -7366,7 +7581,8 @@
     "directorId": 1423660,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/uRViX11fZQGmO9p91ZH7QVh2l5y.jpg",
     "tmdbId": 533444,
-    "filmographyTitle": "It Comes at Night"
+    "filmographyTitle": "It Comes at Night",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg"
   },
   {
     "id": "tt3513548",
@@ -7393,7 +7609,8 @@
     "directorId": 190,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg",
     "tmdbId": 292011,
-    "filmographyTitle": "American Sniper"
+    "filmographyTitle": "American Sniper",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vJgtfUmZE5i4L12sOryAPuBa04K.jpg"
   },
   {
     "id": "tt1130884",
@@ -7420,7 +7637,8 @@
     "directorId": 1032,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg",
     "tmdbId": 11324,
-    "filmographyTitle": "The Wolf of Wall Street"
+    "filmographyTitle": "The Wolf of Wall Street",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
   },
   {
     "id": "tt1853728",
@@ -7446,7 +7664,8 @@
     "directorId": 138,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg",
     "tmdbId": 68718,
-    "filmographyTitle": "Pulp Fiction"
+    "filmographyTitle": "Pulp Fiction",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
   },
   {
     "id": "tt0407887",
@@ -7473,7 +7692,8 @@
     "directorId": 1032,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg",
     "tmdbId": 1422,
-    "filmographyTitle": "The Wolf of Wall Street"
+    "filmographyTitle": "The Wolf of Wall Street",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
   },
   {
     "id": "tt1285016",
@@ -7499,7 +7719,8 @@
     "directorId": 7467,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg",
     "tmdbId": 37799,
-    "filmographyTitle": "Fight Club"
+    "filmographyTitle": "Fight Club",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
   },
   {
     "id": "tt2584384",
@@ -7526,7 +7747,8 @@
     "directorId": 55934,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/jEox6Bq4TlINrnp5EUjqSlDK3eP.jpg",
     "tmdbId": 515001,
-    "filmographyTitle": "Thor: Ragnarok"
+    "filmographyTitle": "Thor: Ragnarok",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
   },
   {
     "id": "tt4144190",
@@ -7552,7 +7774,8 @@
     "directorId": 66605,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg",
     "tmdbId": 326094,
-    "filmographyTitle": "Happiness"
+    "filmographyTitle": "Happiness",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg"
   },
   {
     "id": "tt0268126",
@@ -7578,7 +7801,8 @@
     "directorId": 5953,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg",
     "tmdbId": 2757,
-    "filmographyTitle": "Her"
+    "filmographyTitle": "Her",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg"
   },
   {
     "id": "tt7653254",
@@ -7604,7 +7828,8 @@
     "directorId": 5656,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/b5w381C8Z33D1iF30KT4k8tJNsk.jpg",
     "tmdbId": 492188,
-    "filmographyTitle": "Frances Ha"
+    "filmographyTitle": "Frances Ha",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jrq1NoKvsxWCcffVOjegiYwloFN.jpg"
   },
   {
     "id": "tt0361748",
@@ -7631,7 +7856,8 @@
     "directorId": 138,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
     "tmdbId": 16869,
-    "filmographyTitle": "Pulp Fiction"
+    "filmographyTitle": "Pulp Fiction",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
   },
   {
     "id": "tt1441395",
@@ -7658,7 +7884,8 @@
     "directorId": 66728,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg",
     "tmdbId": 97370,
-    "filmographyTitle": "The Zone of Interest"
+    "filmographyTitle": "The Zone of Interest",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg"
   },
   {
     "id": "tt0119237",
@@ -7684,7 +7911,8 @@
     "directorId": 51918,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zyhqlnG7KfPR9MRw1ptkjXzNd0R.jpg",
     "tmdbId": 18415,
-    "filmographyTitle": "Spring Breakers"
+    "filmographyTitle": "Spring Breakers",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg"
   },
   {
     "id": "tt4226388",
@@ -7711,7 +7939,8 @@
     "directorId": 3702,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg",
     "tmdbId": 320007,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt9234450",
@@ -7765,7 +7994,8 @@
     "directorId": 177532,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yl0qva0O4u92fvtItakdvKmKrW9.jpg",
     "tmdbId": 401847,
-    "filmographyTitle": "A Beautiful Day in the Neighborhood"
+    "filmographyTitle": "A Beautiful Day in the Neighborhood",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/p9vCAVhDK375XyobVcKqzqzsUHE.jpg"
   },
   {
     "id": "tt8151874",
@@ -7790,7 +8020,8 @@
     "directorId": 930012,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg",
     "tmdbId": 512263,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt1798709",
@@ -7817,7 +8048,8 @@
     "directorId": 5953,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg",
     "tmdbId": 152601,
-    "filmographyTitle": "Being John Malkovich"
+    "filmographyTitle": "Being John Malkovich",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xVSvIwRNzwXSs0CLefiiG6A96m4.jpg"
   },
   {
     "id": "tt7286456",
@@ -7844,7 +8076,8 @@
     "directorId": 57130,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg",
     "tmdbId": 475557,
-    "filmographyTitle": "The Hangover"
+    "filmographyTitle": "The Hangover",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/A0uS9rHR56FeBtpjVki16M5xxSW.jpg"
   },
   {
     "id": "tt5724948",
@@ -7895,7 +8128,8 @@
     "directorId": 118415,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/6wpawcT39kfnB5YuR4ZbSa0r2Rg.jpg",
     "tmdbId": 91679,
-    "filmographyTitle": "Anora"
+    "filmographyTitle": "Anora",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
   },
   {
     "id": "tt6040662",
@@ -7920,7 +8154,8 @@
     "directorId": 36693,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg",
     "tmdbId": 467936,
-    "filmographyTitle": "Notes on a Scandal"
+    "filmographyTitle": "Notes on a Scandal",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/ieX6ZO2Kf2qjoIBXbQW5awivbhY.jpg"
   },
   {
     "id": "tt0114906",
@@ -7946,7 +8181,8 @@
     "directorId": 66605,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/afZhMKmsAHZA9jHq7F9tNUFZci6.jpg",
     "tmdbId": 11446,
-    "filmographyTitle": "Happiness"
+    "filmographyTitle": "Happiness",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg"
   },
   {
     "id": "tt6751668",
@@ -7972,7 +8208,8 @@
     "directorId": 21684,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/kBM9UTPYXUA2RNk210DXhztLFns.jpg",
     "tmdbId": 496243,
-    "filmographyTitle": "Snowpiercer"
+    "filmographyTitle": "Snowpiercer",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg"
   },
   {
     "id": "tt6105098",
@@ -7999,7 +8236,8 @@
     "directorId": 15277,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg",
     "tmdbId": 420818,
-    "filmographyTitle": "Iron Man"
+    "filmographyTitle": "Iron Man",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
   },
   {
     "id": "tt2693580",
@@ -8025,7 +8263,8 @@
     "directorId": 1421414,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/c8doPpVetR7wzEMvwsyDBRiVmF9.jpg",
     "tmdbId": 346134,
-    "filmographyTitle": "Stargirl"
+    "filmographyTitle": "Stargirl",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/gwsrtzSrr7G6xjxsa7IwaAMHpEF.jpg"
   },
   {
     "id": "tt1979376",
@@ -8052,7 +8291,8 @@
     "directorId": 84496,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg",
     "tmdbId": 301528,
-    "filmographyTitle": "Transformers One"
+    "filmographyTitle": "Transformers One",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg"
   },
   {
     "id": "tt0110950",
@@ -8079,7 +8319,8 @@
     "directorId": 7399,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gATeG0K6zaZ0wUuu7eB5XjHhySy.jpg",
     "tmdbId": 2788,
-    "filmographyTitle": "The Secret Life of Walter Mitty"
+    "filmographyTitle": "The Secret Life of Walter Mitty",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg"
   },
   {
     "id": "tt2267998",
@@ -8106,7 +8347,8 @@
     "directorId": 7467,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
     "tmdbId": 210577,
-    "filmographyTitle": "Fight Club"
+    "filmographyTitle": "Fight Club",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
   },
   {
     "id": "tt0780504",
@@ -8132,7 +8374,8 @@
     "directorId": 21183,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
     "tmdbId": 64690,
-    "filmographyTitle": "The Neon Demon"
+    "filmographyTitle": "The Neon Demon",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/3rBo2AfWSlvsPmYFdJsNUMfkNIo.jpg"
   },
   {
     "id": "tt7153766",
@@ -8159,7 +8402,8 @@
     "directorId": 1884,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ypQrZFp3UPS6VE4TwGibgG2VB0n.jpg",
     "tmdbId": 467660,
-    "filmographyTitle": "Ocean's Eleven"
+    "filmographyTitle": "Ocean's Eleven",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg"
   },
   {
     "id": "tt4572792",
@@ -8186,7 +8430,8 @@
     "directorId": 930707,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mwel3q2EK4VZEZYur65kEYnzqsH.jpg",
     "tmdbId": 382614,
-    "filmographyTitle": "Jurassic World"
+    "filmographyTitle": "Jurassic World",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
   },
   {
     "id": "tt8254556",
@@ -8211,7 +8456,8 @@
     "directorId": 1274468,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/d5wc5VeiR88UyFVyoHZPVVznK42.jpg",
     "tmdbId": 515916,
-    "filmographyTitle": "Close"
+    "filmographyTitle": "Close",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
   },
   {
     "id": "tt6304162",
@@ -8236,7 +8482,8 @@
     "directorId": 68519,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rCCiNJW5CROYGSJtPbGsEUN1Ehe.jpg",
     "tmdbId": 429174,
-    "filmographyTitle": "Leviathan"
+    "filmographyTitle": "Leviathan",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg"
   },
   {
     "id": "tt3863484",
@@ -8290,7 +8537,8 @@
     "directorId": 1923202,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/y7HXkKrLrr9xAbNnt8ho1AeBDL8.jpg",
     "tmdbId": 486947,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0972544",
@@ -8345,7 +8593,8 @@
     "directorId": 116805,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/awWu2Wdd5C9KmG4hhs840QZWpLU.jpg",
     "tmdbId": 484247,
-    "filmographyTitle": "Ghostbusters"
+    "filmographyTitle": "Ghostbusters",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg"
   },
   {
     "id": "tt7184124",
@@ -8397,7 +8646,8 @@
     "directorId": 21007,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/fxb9jNnldL1ctwigTaNEA6mpJRj.jpg",
     "tmdbId": 437586,
-    "filmographyTitle": "Stutz"
+    "filmographyTitle": "Stutz",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/uOiJmotRM12wsgfwiEXsp3AErdU.jpg"
   },
   {
     "id": "tt2042568",
@@ -8420,10 +8670,11 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjAxNjcyNDQxM15BMl5BanBnXkFtZTgwNzU2NDA0MDE@._V1_SX300.jpg",
     "studio": "StudioCanal",
     "tagline": null,
-    "directorId": 1224,
+    "directorId": 1223,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg",
     "tmdbId": 86829,
-    "filmographyTitle": "No Country for Old Men"
+    "filmographyTitle": "No Country for Old Men",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/6d5XOczc226jECq0LIX0siKtgHR.jpg"
   },
   {
     "id": "tt6509058",
@@ -8450,7 +8701,8 @@
     "directorId": 1209875,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg",
     "tmdbId": 480853,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt1727824",
@@ -8477,7 +8729,8 @@
     "directorId": 9032,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mESIaMPIPxtyWDQ6DAChUBobOp5.jpg",
     "tmdbId": 424694,
-    "filmographyTitle": "X-Men: Days of Future Past"
+    "filmographyTitle": "X-Men: Days of Future Past",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/tYfijzolzgoMOtegh1Y7j2Enorg.jpg"
   },
   {
     "id": "tt7681824",
@@ -8502,7 +8755,8 @@
     "directorId": 550121,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/c4ObgMeezAzr1Nv887VQWTzinUu.jpg",
     "tmdbId": 490000,
-    "filmographyTitle": "Hustle"
+    "filmographyTitle": "Hustle",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xWic7kPq13oRxYjbGLApXCnc7pz.jpg"
   },
   {
     "id": "tt7668870",
@@ -8529,7 +8783,8 @@
     "directorId": 1932296,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4Lar4uy8gk78cEocq6ERPRFWt3e.jpg",
     "tmdbId": 489999,
-    "filmographyTitle": "Run"
+    "filmographyTitle": "Run",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/ilHG4EayOVoYeKqslspY3pR4wzC.jpg"
   },
   {
     "id": "tt6257174",
@@ -8555,7 +8810,8 @@
     "directorId": 1285174,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yq4rYmaTRC5degaOYmJQFpaiho1.jpg",
     "tmdbId": 426613,
-    "filmographyTitle": "Appropriate Behavior"
+    "filmographyTitle": "Appropriate Behavior",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/ywa3IaNZz6m7jMur18zn4de59CV.jpg"
   },
   {
     "id": "tt1226837",
@@ -8581,7 +8837,8 @@
     "directorId": 239672,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/cS7Cbyff6wFVfUGem497vy9LS7A.jpg",
     "tmdbId": 451915,
-    "filmographyTitle": "The Broken Circle Breakdown"
+    "filmographyTitle": "The Broken Circle Breakdown",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/qXpMmQaKvTCCN2tvzvkyuOp8AQC.jpg"
   },
   {
     "id": "tt7784604",
@@ -8608,7 +8865,8 @@
     "directorId": 1145520,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg",
     "tmdbId": 493922,
-    "filmographyTitle": "Midsommar"
+    "filmographyTitle": "Midsommar",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg"
   },
   {
     "id": "tt0342172",
@@ -8635,7 +8893,8 @@
     "directorId": 23287,
     "leadActorPhoto": null,
     "tmdbId": 2260,
-    "filmographyTitle": "All Good Things"
+    "filmographyTitle": "All Good Things",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/3RM8SyB0yHanJbYeHdgi5eLv21C.jpg"
   },
   {
     "id": "tt6952960",
@@ -8688,7 +8947,8 @@
     "directorId": 54040,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg",
     "tmdbId": 310307,
-    "filmographyTitle": "The Blind Side"
+    "filmographyTitle": "The Blind Side",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg"
   },
   {
     "id": "tt1966604",
@@ -8715,7 +8975,8 @@
     "directorId": 859754,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gRF1rXdFCsLnuPyNfcSZP1SZwC4.jpg",
     "tmdbId": 84287,
-    "filmographyTitle": "American Animals"
+    "filmographyTitle": "American Animals",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg"
   },
   {
     "id": "tt7014006",
@@ -8741,7 +9002,8 @@
     "directorId": 115128,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg",
     "tmdbId": 489925,
-    "filmographyTitle": "Bo Burnham: Inside"
+    "filmographyTitle": "Bo Burnham: Inside",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg"
   },
   {
     "id": "tt3892172",
@@ -8767,7 +9029,8 @@
     "directorId": 121873,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/WOpnEFG5Q8LWxP81MtUrskmVox.jpg",
     "tmdbId": 443463,
-    "filmographyTitle": "Winter's Bone"
+    "filmographyTitle": "Winter's Bone",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/a0qhPkNlxLfsf5B2jFyI1Pp04XV.jpg"
   },
   {
     "id": "tt0082176",
@@ -8848,7 +9111,8 @@
     "directorId": 89576,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/pKLIlotHTzciDyaDxAMUACjxNLS.jpg",
     "tmdbId": 13068,
-    "filmographyTitle": "Table 19"
+    "filmographyTitle": "Table 19",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/5frbf55BlFERLJRAwdZNaUGxwN2.jpg"
   },
   {
     "id": "tt0338013",
@@ -8875,7 +9139,8 @@
     "directorId": 201,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg",
     "tmdbId": 38,
-    "filmographyTitle": "The Green Hornet"
+    "filmographyTitle": "The Green Hornet",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/pecyADOvb3Ksey7KYU6V1enEOEc.jpg"
   },
   {
     "id": "tt5639354",
@@ -8900,7 +9165,8 @@
     "directorId": 1142171,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/pqiWEvi0iwtkWMq2060jtrckxpS.jpg",
     "tmdbId": 429191,
-    "filmographyTitle": "Disobedience"
+    "filmographyTitle": "Disobedience",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/skPT4ffWhlmmDOMNEdxOiP6Emfz.jpg"
   },
   {
     "id": "tt0066921",
@@ -8926,7 +9192,8 @@
     "directorId": 240,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg",
     "tmdbId": 185,
-    "filmographyTitle": "The Shining"
+    "filmographyTitle": "The Shining",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg"
   },
   {
     "id": "tt3416536",
@@ -8953,7 +9220,8 @@
     "directorId": 1485381,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg",
     "tmdbId": 347866,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt5610554",
@@ -8980,7 +9248,8 @@
     "directorId": 52443,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
     "tmdbId": 400579,
-    "filmographyTitle": "Juno"
+    "filmographyTitle": "Juno",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg"
   },
   {
     "id": "tt3917210",
@@ -9007,7 +9276,8 @@
     "directorId": 1140442,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4tdJawqUzTVKqPOgmJVC898Zyj0.jpg",
     "tmdbId": 376233,
-    "filmographyTitle": "Cassandro"
+    "filmographyTitle": "Cassandro",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg"
   },
   {
     "id": "tt5052448",
@@ -9034,7 +9304,8 @@
     "directorId": 291263,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/jj2kZqJobjom36wlhlYhc38nTwN.jpg",
     "tmdbId": 419430,
-    "filmographyTitle": "Us"
+    "filmographyTitle": "Us",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg"
   },
   {
     "id": "tt3896198",
@@ -9061,7 +9332,8 @@
     "directorId": 15218,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg",
     "tmdbId": 283995,
-    "filmographyTitle": "Guardians of the Galaxy"
+    "filmographyTitle": "Guardians of the Galaxy",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
   },
   {
     "id": "tt2582784",
@@ -9087,7 +9359,8 @@
     "directorId": 213614,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tn6ErnytTct7HNAFG2dW17QcBk5.jpg",
     "tmdbId": 421471,
-    "filmographyTitle": "Jungleland"
+    "filmographyTitle": "Jungleland",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/34jYoAAlkZnfyJiJWpjmrDc9zFR.jpg"
   },
   {
     "id": "tt5649108",
@@ -9114,7 +9387,8 @@
     "directorId": 1620987,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/uxxJDkLD0DXFE2aHnqUe72njCli.jpg",
     "tmdbId": 397722,
-    "filmographyTitle": "Bad Education"
+    "filmographyTitle": "Bad Education",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/gizz5FphOtfSnLaGpRALOZgILd5.jpg"
   },
   {
     "id": "tt5340300",
@@ -9141,7 +9415,8 @@
     "directorId": 586002,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/u2ig0kkgxq36BMbFQ4DEWfu5G3A.jpg",
     "tmdbId": 407890,
-    "filmographyTitle": "All of Us Strangers"
+    "filmographyTitle": "All of Us Strangers",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg"
   },
   {
     "id": "tt2023690",
@@ -9168,7 +9443,8 @@
     "directorId": 137467,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/v4sRxLpRpHEd9vbk43wm9VL0v0K.jpg",
     "tmdbId": 117974,
-    "filmographyTitle": "Meg 2: The Trench"
+    "filmographyTitle": "Meg 2: The Trench",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg"
   },
   {
     "id": "tt2125608",
@@ -9195,7 +9471,8 @@
     "directorId": 930708,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/5a5kK7I3Mo0LbWAGjHxTPRHHp58.jpg",
     "tmdbId": 84334,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt5742374",
@@ -9222,7 +9499,8 @@
     "directorId": 83287,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg",
     "tmdbId": 398181,
-    "filmographyTitle": "We Need to Talk About Kevin"
+    "filmographyTitle": "We Need to Talk About Kevin",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg"
   },
   {
     "id": "tt4444438",
@@ -9276,7 +9554,8 @@
     "directorId": 525,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg",
     "tmdbId": 157336,
-    "filmographyTitle": "Inception"
+    "filmographyTitle": "Inception",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
   },
   {
     "id": "tt5462602",
@@ -9303,7 +9582,8 @@
     "directorId": 22215,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/nUIuTKmB855tdWKTNaHrdiLNuyg.jpg",
     "tmdbId": 416477,
-    "filmographyTitle": "The Idea of You"
+    "filmographyTitle": "The Idea of You",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg"
   },
   {
     "id": "tt1603900",
@@ -9356,7 +9636,8 @@
     "directorId": 133873,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg",
     "tmdbId": 359784,
-    "filmographyTitle": "An Inspector Calls"
+    "filmographyTitle": "An Inspector Calls",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/qZLDqf9poquJwY5uY6ZWK1yqsSb.jpg"
   },
   {
     "id": "tt2910274",
@@ -9383,7 +9664,8 @@
     "directorId": 1284099,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iNpXig5Djkh5moYG4TCekIATs5B.jpg",
     "tmdbId": 248774,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0470752",
@@ -9410,7 +9692,8 @@
     "directorId": 2036,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/a63BgOBKzJ9XPaLFyu7u5Ge3REG.jpg",
     "tmdbId": 264660,
-    "filmographyTitle": "Annihilation"
+    "filmographyTitle": "Annihilation",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg"
   },
   {
     "id": "tt0265459",
@@ -9436,7 +9719,8 @@
     "directorId": 57446,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg",
     "tmdbId": 9357,
-    "filmographyTitle": "Never Let Me Go"
+    "filmographyTitle": "Never Let Me Go",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/8F0r5ng9Fp60OhzQfR5v33fppq.jpg"
   },
   {
     "id": "tt0080678",
@@ -9462,7 +9746,8 @@
     "directorId": 5602,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dYVQTK1dPrQl1mugeLEWSSmA6Im.jpg",
     "tmdbId": 1955,
-    "filmographyTitle": "Mulholland Drive"
+    "filmographyTitle": "Mulholland Drive",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/x7A59t6ySylr1L7aubOQEA480vM.jpg"
   },
   {
     "id": "tt0243255",
@@ -9487,7 +9772,8 @@
     "directorId": 6295,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/w7QFHCG02g558RmpQYFSY6HUSfJ.jpg",
     "tmdbId": 570,
-    "filmographyTitle": "Romance"
+    "filmographyTitle": "Romance",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xR2b19JyLr8ssLzIvaXBOkGkghm.jpg"
   },
   {
     "id": "tt0120601",
@@ -9514,7 +9800,8 @@
     "directorId": 5953,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg",
     "tmdbId": 492,
-    "filmographyTitle": "Her"
+    "filmographyTitle": "Her",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg"
   },
   {
     "id": "tt0209144",
@@ -9541,7 +9828,8 @@
     "directorId": 525,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg",
     "tmdbId": 77,
-    "filmographyTitle": "Interstellar"
+    "filmographyTitle": "Interstellar",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
   },
   {
     "id": "tt2125435",
@@ -9568,7 +9856,8 @@
     "directorId": 223516,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lHW9hnGlPMgexsbraR7xyBh5qEI.jpg",
     "tmdbId": 84175,
-    "filmographyTitle": "Wendy"
+    "filmographyTitle": "Wendy",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/nphsStbtAuJ2IaXtCvDXDwMUF5N.jpg"
   },
   {
     "id": "tt3721936",
@@ -9595,7 +9884,8 @@
     "directorId": 71082,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iALlJMFPAH5xwfAzWHrZDNmHOSi.jpg",
     "tmdbId": 340485,
-    "filmographyTitle": "Fish Tank"
+    "filmographyTitle": "Fish Tank",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg"
   },
   {
     "id": "tt0361127",
@@ -9620,7 +9910,8 @@
     "directorId": 58573,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
     "tmdbId": 9692,
-    "filmographyTitle": "A Little Bit of Heaven"
+    "filmographyTitle": "A Little Bit of Heaven",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/l6PPyobgVN4eVlD9pJZg2SIPJMT.jpg"
   },
   {
     "id": "tt4925292",
@@ -9646,7 +9937,8 @@
     "directorId": 45400,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/w88uhQ5f8CXw9pQx5HtDrDpzQ4x.jpg",
     "tmdbId": 391713,
-    "filmographyTitle": "Barbie"
+    "filmographyTitle": "Barbie",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
   },
   {
     "id": "tt5859238",
@@ -9673,7 +9965,8 @@
     "directorId": 3911,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/9zOTpVMwMHNjPFBNoPy9vOBT1NC.jpg",
     "tmdbId": 407449,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt5580036",
@@ -9700,7 +9993,8 @@
     "directorId": 50767,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/8WC12YJltY2H0TdRs9f4Uu8T6Sx.jpg",
     "tmdbId": 389015,
-    "filmographyTitle": "Cruella"
+    "filmographyTitle": "Cruella",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg"
   },
   {
     "id": "tt5726616",
@@ -9726,7 +10020,8 @@
     "directorId": 78160,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg",
     "tmdbId": 398818,
-    "filmographyTitle": "Suspiria"
+    "filmographyTitle": "Suspiria",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg"
   },
   {
     "id": "tt0907657",
@@ -9753,7 +10048,8 @@
     "directorId": 45117,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/pakY1aGMATKzebPUmGuzXeK4zOG.jpg",
     "tmdbId": 5723,
-    "filmographyTitle": "Begin Again"
+    "filmographyTitle": "Begin Again",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/qx4HXHXt528hS4rwePZbZo20xqZ.jpg"
   },
   {
     "id": "tt0129167",
@@ -9780,7 +10076,8 @@
     "directorId": 7087,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/7sQcYpMkmZMc2pXnkmAuYzNVhXB.jpg",
     "tmdbId": 10386,
-    "filmographyTitle": "The Incredibles"
+    "filmographyTitle": "The Incredibles",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
   },
   {
     "id": "tt5027774",
@@ -9807,7 +10104,8 @@
     "directorId": 54472,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg",
     "tmdbId": 359940,
-    "filmographyTitle": "In Bruges"
+    "filmographyTitle": "In Bruges",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg"
   },
   {
     "id": "tt0783233",
@@ -9834,7 +10132,8 @@
     "directorId": 36588,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg",
     "tmdbId": 4347,
-    "filmographyTitle": "Pride & Prejudice"
+    "filmographyTitle": "Pride & Prejudice",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg"
   },
   {
     "id": "tt5715874",
@@ -9861,7 +10160,8 @@
     "directorId": 122423,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg",
     "tmdbId": 399057,
-    "filmographyTitle": "The Lobster"
+    "filmographyTitle": "The Lobster",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg"
   },
   {
     "id": "tt0245429",
@@ -9888,7 +10188,8 @@
     "directorId": 608,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/nTKM4GgfkrZvAOFL55uhEuckt7M.jpg",
     "tmdbId": 129,
-    "filmographyTitle": "Howl's Moving Castle"
+    "filmographyTitle": "Howl's Moving Castle",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg"
   },
   {
     "id": "tt0758758",
@@ -9915,7 +10216,8 @@
     "directorId": 2228,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/NQjX6KjtDDyLnvbxhrU9xQWaYJ.jpg",
     "tmdbId": 5915,
-    "filmographyTitle": "The Pledge"
+    "filmographyTitle": "The Pledge",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/9QOzFL3FPMAUNNPrNiKC3mEDxco.jpg"
   },
   {
     "id": "tt3170832",
@@ -9941,7 +10243,8 @@
     "directorId": 83281,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rlbQbpu3tkMAikPWM53VElMUnzR.jpg",
     "tmdbId": 264644,
-    "filmographyTitle": "Frank"
+    "filmographyTitle": "Frank",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/mGzqs4CHW8LomreoPATnyrTXk7j.jpg"
   },
   {
     "id": "tt3783958",
@@ -9968,7 +10271,8 @@
     "directorId": 136495,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
     "tmdbId": 313369,
-    "filmographyTitle": "Whiplash"
+    "filmographyTitle": "Whiplash",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
   },
   {
     "id": "tt2380307",
@@ -9995,7 +10299,8 @@
     "directorId": 8,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/WF7bn6t0LkxwBWyDMWvomVujn7.jpg",
     "tmdbId": 354912,
-    "filmographyTitle": "Toy Story 3"
+    "filmographyTitle": "Toy Story 3",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg"
   },
   {
     "id": "tt6304046",
@@ -10022,7 +10327,8 @@
     "directorId": 71609,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/c9dWPvhL6WqpkM78RfdJ8V7tgvS.jpg",
     "tmdbId": 401898,
-    "filmographyTitle": "The Worst Person in the World"
+    "filmographyTitle": "The Worst Person in the World",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg"
   },
   {
     "id": "tt1152758",
@@ -10049,7 +10355,8 @@
     "directorId": 80207,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/5vhQ176yRcc4JtkTEzCLtrQF2ge.jpg",
     "tmdbId": 15584,
-    "filmographyTitle": "Validation"
+    "filmographyTitle": "Validation",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/sWtMYoYcD89Qqx98SfydrnmE164.jpg"
   },
   {
     "id": "tt0118799",
@@ -10076,7 +10383,8 @@
     "directorId": 4818,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ba1Sg02XxCphu6E1dWDMAH1GzeE.jpg",
     "tmdbId": 637,
-    "filmographyTitle": "Nothing Left to Do But Cry"
+    "filmographyTitle": "Nothing Left to Do But Cry",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/bCaBf3GcNKxI6sEU0foxXiLaHGa.jpg"
   },
   {
     "id": "tt0300214",
@@ -10101,7 +10409,8 @@
     "directorId": 83287,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/v84b7MENeD9rwX6xTD7fSdhSOC9.jpg",
     "tmdbId": 18602,
-    "filmographyTitle": "We Need to Talk About Kevin"
+    "filmographyTitle": "We Need to Talk About Kevin",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg"
   },
   {
     "id": "tt4954522",
@@ -10127,7 +10436,8 @@
     "directorId": 1392433,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gPIOhXZDUYE8wDbL5s12H7i6uzK.jpg",
     "tmdbId": 393519,
-    "filmographyTitle": "Titane"
+    "filmographyTitle": "Titane",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/mBlpouG3gqB8WLdP65LCOXb3jFb.jpg"
   },
   {
     "id": "tt1188113",
@@ -10179,7 +10489,8 @@
     "directorId": 148357,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg",
     "tmdbId": 53505,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0314412",
@@ -10205,7 +10516,8 @@
     "directorId": 90,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/kQEyOfhp72yM4t6uo16ypSXfVX1.jpg",
     "tmdbId": 20,
-    "filmographyTitle": "Paris Je T'aime"
+    "filmographyTitle": "Paris Je T'aime",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/mcke8Uvw8QDToAZQ94UGo7VU0g6.jpg"
   },
   {
     "id": "tt3416532",
@@ -10232,7 +10544,8 @@
     "directorId": 51894,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ukwaI1yS14VEoGcCOGZfU53hfJ4.jpg",
     "tmdbId": 258230,
-    "filmographyTitle": "Jurassic World: Fallen Kingdom"
+    "filmographyTitle": "Jurassic World: Fallen Kingdom",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg"
   },
   {
     "id": "tt1714206",
@@ -10258,7 +10571,8 @@
     "directorId": 930710,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg",
     "tmdbId": 157386,
-    "filmographyTitle": "The Circle"
+    "filmographyTitle": "The Circle",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg"
   },
   {
     "id": "tt4698684",
@@ -10285,7 +10599,8 @@
     "directorId": 55934,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg",
     "tmdbId": 371645,
-    "filmographyTitle": "Thor: Ragnarok"
+    "filmographyTitle": "Thor: Ragnarok",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
   },
   {
     "id": "tt1441940",
@@ -10337,7 +10652,8 @@
     "directorId": 4453,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg",
     "tmdbId": 103663,
-    "filmographyTitle": "Another Round"
+    "filmographyTitle": "Another Round",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg"
   },
   {
     "id": "tt0276919",
@@ -10363,7 +10679,8 @@
     "directorId": 42,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
     "tmdbId": 553,
-    "filmographyTitle": "Melancholia"
+    "filmographyTitle": "Melancholia",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg"
   },
   {
     "id": "tt2321405",
@@ -10390,7 +10707,8 @@
     "directorId": 588869,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/bSnQeyc5EGoDiXlcTLKFiD0eZbh.jpg",
     "tmdbId": 393559,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0805564",
@@ -10417,7 +10735,8 @@
     "directorId": 50767,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg",
     "tmdbId": 6615,
-    "filmographyTitle": "Cruella"
+    "filmographyTitle": "Cruella",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg"
   },
   {
     "id": "tt0340377",
@@ -10443,7 +10762,8 @@
     "directorId": 17867,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg",
     "tmdbId": 2056,
-    "filmographyTitle": "Spotlight"
+    "filmographyTitle": "Spotlight",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/8DPGG400FgaFWaqcv11n8mRd2NG.jpg"
   },
   {
     "id": "tt0401383",
@@ -10469,7 +10789,8 @@
     "directorId": 7482,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg",
     "tmdbId": 2013,
-    "filmographyTitle": "At Eternity's Gate"
+    "filmographyTitle": "At Eternity's Gate",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg"
   },
   {
     "id": "tt2401878",
@@ -10496,7 +10817,8 @@
     "directorId": 1019303,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg",
     "tmdbId": 291270,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt2624412",
@@ -10521,7 +10843,8 @@
     "directorId": 53935,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg",
     "tmdbId": 259963,
-    "filmographyTitle": "Fighting"
+    "filmographyTitle": "Fighting",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xP1uogi5Gjnf6ybSN10lyDpqDlW.jpg"
   },
   {
     "id": "tt0415978",
@@ -10547,7 +10870,8 @@
     "directorId": 16860,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/fs32oVyHtwWV4czdTaNzCMFaEe4.jpg",
     "tmdbId": 1382,
-    "filmographyTitle": "Kajillionaire"
+    "filmographyTitle": "Kajillionaire",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/fkqJJDb4u9rEyJu8Jm8H1P2mux4.jpg"
   },
   {
     "id": "tt5065810",
@@ -10601,7 +10925,8 @@
     "directorId": 549310,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rk2WTTRjShRhfIY62HyPQ0Rcws2.jpg",
     "tmdbId": 67748,
-    "filmographyTitle": "Assassin's Creed"
+    "filmographyTitle": "Assassin's Creed",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/kDXewoEcvbn0pUvJ8W3vfkuWgHw.jpg"
   },
   {
     "id": "tt0424880",
@@ -10627,7 +10952,8 @@
     "directorId": 37259,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/AgIA8uPnwySIbqaPjr5jEXwZbS.jpg",
     "tmdbId": 4441,
-    "filmographyTitle": "Holding the Man"
+    "filmographyTitle": "Holding the Man",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/dF04CHO27xbNL0Zn0JJ0QdC7SNU.jpg"
   },
   {
     "id": "tt2321549",
@@ -10654,7 +10980,8 @@
     "directorId": 164554,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mwJrRr9bdlUZFZBNDTgWxAKAdqR.jpg",
     "tmdbId": 242224,
-    "filmographyTitle": "The Nightingale"
+    "filmographyTitle": "The Nightingale",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/wEzqFiatOJSbGBu6pb8z5sQuZt1.jpg"
   },
   {
     "id": "tt4160708",
@@ -10681,7 +11008,8 @@
     "directorId": 932248,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg",
     "tmdbId": 300669,
-    "filmographyTitle": "Evil Dead"
+    "filmographyTitle": "Evil Dead",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg"
   },
   {
     "id": "tt4178092",
@@ -10708,7 +11036,8 @@
     "directorId": 33192,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/2YzeeiYUbI94Ywc7MVMo1NcN6jf.jpg",
     "tmdbId": 328425,
-    "filmographyTitle": "Boy Erased"
+    "filmographyTitle": "Boy Erased",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/oZbhTdi0ZQY7iiSQ0L7h3ya6NDF.jpg"
   },
   {
     "id": "tt3922816",
@@ -10733,7 +11062,8 @@
     "directorId": 38785,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg",
     "tmdbId": 292010,
-    "filmographyTitle": "The Dig"
+    "filmographyTitle": "The Dig",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/dFDNb9Gk1kyLRcconpj7Mc7C7IL.jpg"
   },
   {
     "id": "tt1450321",
@@ -10760,7 +11090,8 @@
     "directorId": 76965,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg",
     "tmdbId": 85889,
-    "filmographyTitle": "Tetris"
+    "filmographyTitle": "Tetris",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg"
   },
   {
     "id": "tt1825157",
@@ -10787,7 +11118,8 @@
     "directorId": 98103,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg",
     "tmdbId": 146015,
-    "filmographyTitle": "Submarine"
+    "filmographyTitle": "Submarine",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/nbzXX3CYtKUBrPeMcG7PVoLQHXB.jpg"
   },
   {
     "id": "tt0460740",
@@ -10814,7 +11146,8 @@
     "directorId": 32250,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/6g9cQWg3ikD3xboDtyF8qKdpmgl.jpg",
     "tmdbId": 12225,
-    "filmographyTitle": "Anthropoid"
+    "filmographyTitle": "Anthropoid",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/5hUghRVVkBYufftfNQkGevY5AmE.jpg"
   },
   {
     "id": "tt1392214",
@@ -10841,7 +11174,8 @@
     "directorId": 137427,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg",
     "tmdbId": 146233,
-    "filmographyTitle": "Arrival"
+    "filmographyTitle": "Arrival",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg"
   },
   {
     "id": "tt2582802",
@@ -10867,7 +11201,8 @@
     "directorId": 136495,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg",
     "tmdbId": 244786,
-    "filmographyTitle": "La La Land"
+    "filmographyTitle": "La La Land",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
   },
   {
     "id": "tt3100636",
@@ -10947,7 +11282,8 @@
     "directorId": 59891,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/25lfbMJruSG5Kmv1zdKfMyrZWB9.jpg",
     "tmdbId": 9867,
-    "filmographyTitle": null
+    "filmographyTitle": null,
+    "filmographyPoster": null
   },
   {
     "id": "tt0318761",
@@ -10973,7 +11309,8 @@
     "directorId": 17439,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/25lfbMJruSG5Kmv1zdKfMyrZWB9.jpg",
     "tmdbId": 1546,
-    "filmographyTitle": "20th Century Women"
+    "filmographyTitle": "20th Century Women",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/mso2rEr9i0MilRIOao5HaWFipS9.jpg"
   },
   {
     "id": "tt0406650",
@@ -10999,7 +11336,8 @@
     "directorId": 76009,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
     "tmdbId": 13919,
-    "filmographyTitle": "The In Between"
+    "filmographyTitle": "The In Between",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg"
   },
   {
     "id": "tt0280760",
@@ -11025,7 +11363,8 @@
     "directorId": 58552,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg",
     "tmdbId": 9685,
-    "filmographyTitle": "17 Again"
+    "filmographyTitle": "17 Again",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/yEcfFXEWpuXcfsR9nKESVCFneqV.jpg"
   },
   {
     "id": "tt0424136",
@@ -11051,7 +11390,8 @@
     "directorId": 27571,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg",
     "tmdbId": 2652,
-    "filmographyTitle": "The Twilight Saga: Eclipse"
+    "filmographyTitle": "The Twilight Saga: Eclipse",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg"
   },
   {
     "id": "tt1242460",
@@ -11078,7 +11418,8 @@
     "directorId": 83287,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dzjT4LKgs7eOma84GsPy78DsGNH.jpg",
     "tmdbId": 71859,
-    "filmographyTitle": "You Were Never Really Here"
+    "filmographyTitle": "You Were Never Really Here",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg"
   },
   {
     "id": "tt0363589",
@@ -11105,7 +11446,8 @@
     "directorId": 5216,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/2rP9HunXkl4lzC8z0g4II5RHslz.jpg",
     "tmdbId": 1807,
-    "filmographyTitle": "Good Will Hunting"
+    "filmographyTitle": "Good Will Hunting",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
   },
   {
     "id": "tt0242193",
@@ -11132,7 +11474,8 @@
     "directorId": 51917,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/oOtzyE9wkbBV58ZxyYsGzyPxoSw.jpg",
     "tmdbId": 9517,
-    "filmographyTitle": "Kids"
+    "filmographyTitle": "Kids",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg"
   },
   {
     "id": "tt0328538",
@@ -11157,7 +11500,8 @@
     "directorId": 19850,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ksXTb2bvqt60bCGRwBlWrNbZHnr.jpg",
     "tmdbId": 11023,
-    "filmographyTitle": "Twilight"
+    "filmographyTitle": "Twilight",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg"
   },
   {
     "id": "tt0169547",
@@ -11182,7 +11526,8 @@
     "directorId": 39,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg",
     "tmdbId": 14,
-    "filmographyTitle": "Skyfall"
+    "filmographyTitle": "Skyfall",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg"
   },
   {
     "id": "tt0180093",
@@ -11207,7 +11552,8 @@
     "directorId": 6431,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg",
     "tmdbId": 641,
-    "filmographyTitle": "Black Swan"
+    "filmographyTitle": "Black Swan",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/viWheBd44bouiLCHgNMvahLThqx.jpg"
   },
   {
     "id": "tt0947798",
@@ -11233,7 +11579,8 @@
     "directorId": 6431,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg",
     "tmdbId": 44214,
-    "filmographyTitle": "Requiem for a Dream"
+    "filmographyTitle": "Requiem for a Dream",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg"
   },
   {
     "id": "tt0172493",
@@ -11259,7 +11606,8 @@
     "directorId": 366,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/gATeG0K6zaZ0wUuu7eB5XjHhySy.jpg",
     "tmdbId": 3558,
-    "filmographyTitle": "Logan"
+    "filmographyTitle": "Logan",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
   },
   {
     "id": "tt0364955",
@@ -11286,7 +11634,8 @@
     "directorId": 17447,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg",
     "tmdbId": 9786,
-    "filmographyTitle": "Bad Santa"
+    "filmographyTitle": "Bad Santa",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg"
   },
   {
     "id": "tt0147612",
@@ -11312,7 +11661,8 @@
     "directorId": 66605,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg",
     "tmdbId": 10683,
-    "filmographyTitle": "Welcome to the Dollhouse"
+    "filmographyTitle": "Welcome to the Dollhouse",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/fsMMOVto87pvUQyozOF9CaT9aMR.jpg"
   },
   {
     "id": "tt1663202",
@@ -11339,7 +11689,8 @@
     "directorId": 223,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg",
     "tmdbId": 281957,
-    "filmographyTitle": "Birdman or (The Unexpected Virtue of Ignorance)"
+    "filmographyTitle": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg"
   },
   {
     "id": "tt5362988",
@@ -11366,7 +11717,8 @@
     "directorId": 1215399,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg",
     "tmdbId": 395834,
-    "filmographyTitle": "Those Who Wish Me Dead"
+    "filmographyTitle": "Those Who Wish Me Dead",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg"
   },
   {
     "id": "tt1702014",
@@ -11392,7 +11744,8 @@
     "directorId": 115174,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/agGygEElW6ewGNNrg8CkzO53x68.jpg",
     "tmdbId": 237791,
-    "filmographyTitle": "I Don't Want to Go Back Alone"
+    "filmographyTitle": "I Don't Want to Go Back Alone",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/zcTp4w9OzAqD1G4lugOtG8sqm3T.jpg"
   },
   {
     "id": "tt1205489",
@@ -11417,7 +11770,8 @@
     "directorId": 190,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
     "tmdbId": 13223,
-    "filmographyTitle": "American Sniper"
+    "filmographyTitle": "American Sniper",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vJgtfUmZE5i4L12sOryAPuBa04K.jpg"
   },
   {
     "id": "tt4266638",
@@ -11442,7 +11796,8 @@
     "directorId": 1423660,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/bOPfngxpEutFxQ1qrwWjFACV9A9.jpg",
     "tmdbId": 323929,
-    "filmographyTitle": "It Comes at Night"
+    "filmographyTitle": "It Comes at Night",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg"
   },
   {
     "id": "tt2347569",
@@ -11469,7 +11824,8 @@
     "directorId": 5656,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/3H0xzU12GTNJyQTpGysEuI9KyiQ.jpg",
     "tmdbId": 121986,
-    "filmographyTitle": "Marriage Story"
+    "filmographyTitle": "Marriage Story",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg"
   },
   {
     "id": "tt1232776",
@@ -11494,7 +11850,8 @@
     "directorId": 71082,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/afll1BEx7eGFt1LqLYhxs2gnTbp.jpg",
     "tmdbId": 24469,
-    "filmographyTitle": "American Honey"
+    "filmographyTitle": "American Honey",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/41SVO0AElBAl7zks9dFhJ0OjHni.jpg"
   },
   {
     "id": "tt0388795",
@@ -11520,7 +11877,8 @@
     "directorId": 1614,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/p2z2bURSg7nuMsN9P2s61e2RvNz.jpg",
     "tmdbId": 142,
-    "filmographyTitle": "Life of Pi"
+    "filmographyTitle": "Life of Pi",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/iLgRu4hhSr6V1uManX6ukDriiSc.jpg"
   },
   {
     "id": "tt1723811",
@@ -11545,7 +11903,8 @@
     "directorId": 72757,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg",
     "tmdbId": 76025,
-    "filmographyTitle": "12 Years a Slave"
+    "filmographyTitle": "12 Years a Slave",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xdANQijuNrJaw1HA61rDccME4Tm.jpg"
   },
   {
     "id": "tt1315981",
@@ -11572,7 +11931,8 @@
     "directorId": 120615,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/4VBeYEUQbfhnivdkqInM36u5fda.jpg",
     "tmdbId": 34653,
-    "filmographyTitle": "Nocturnal Animals"
+    "filmographyTitle": "Nocturnal Animals",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/mdLDgQBD0va09npSQX5Zgo2evXM.jpg"
   },
   {
     "id": "tt1878870",
@@ -11599,7 +11959,8 @@
     "directorId": 983909,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg",
     "tmdbId": 376660,
-    "filmographyTitle": "Are You There God? It's Me, Margaret."
+    "filmographyTitle": "Are You There God? It's Me, Margaret.",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg"
   },
   {
     "id": "tt2582496",
@@ -11625,7 +11986,8 @@
     "directorId": 1224031,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/uxxJDkLD0DXFE2aHnqUe72njCli.jpg",
     "tmdbId": 308369,
-    "filmographyTitle": "The Current War"
+    "filmographyTitle": "The Current War",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/eqTjO8yTaPRSKWj7i6Qnr7R5cls.jpg"
   },
   {
     "id": "tt2582846",
@@ -11651,7 +12013,8 @@
     "directorId": 1053420,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/tqNlTcDxDFQOQi0GpEtx0lqQyWt.jpg",
     "tmdbId": 222935,
-    "filmographyTitle": "The New Mutants"
+    "filmographyTitle": "The New Mutants",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg"
   },
   {
     "id": "tt1659337",
@@ -11676,7 +12039,8 @@
     "directorId": 19311,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/ckcpgSvSWOhi8mvAfR1Cpsakg3S.jpg",
     "tmdbId": 84892,
-    "filmographyTitle": "Wonder"
+    "filmographyTitle": "Wonder",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/sONh3LYGFcVDTy8pm1tbSOB13Li.jpg"
   },
   {
     "id": "tt0449059",
@@ -11702,7 +12066,8 @@
     "directorId": 16959,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/iJezGc9XjY0DFPs00SypkuKImFK.jpg",
     "tmdbId": 773,
-    "filmographyTitle": "Battle of the Sexes"
+    "filmographyTitle": "Battle of the Sexes",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/fWy0A3VojTCb0S2MKtEJjpquubF.jpg"
   },
   {
     "id": "tt0467406",
@@ -11728,7 +12093,8 @@
     "directorId": 52443,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg",
     "tmdbId": 7326,
-    "filmographyTitle": "Ghostbusters: Afterlife"
+    "filmographyTitle": "Ghostbusters: Afterlife",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/sg4xJaufDiQl7caFEskBtQXfD4x.jpg"
   },
   {
     "id": "tt1748122",
@@ -11755,7 +12121,8 @@
     "directorId": 5655,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/13KfThcvowIgbLpOfp0ihoUWRe.jpg",
     "tmdbId": 83666,
-    "filmographyTitle": "The Grand Budapest Hotel"
+    "filmographyTitle": "The Grand Budapest Hotel",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg"
   },
   {
     "id": "tt1019452",
@@ -11781,7 +12148,8 @@
     "directorId": 1224,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg",
     "tmdbId": 12573,
-    "filmographyTitle": "No Country for Old Men"
+    "filmographyTitle": "No Country for Old Men",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/6d5XOczc226jECq0LIX0siKtgHR.jpg"
   },
   {
     "id": "tt0383028",
@@ -11806,7 +12174,8 @@
     "directorId": 202,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg",
     "tmdbId": 4960,
-    "filmographyTitle": "I'm Thinking of Ending Things"
+    "filmographyTitle": "I'm Thinking of Ending Things",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg"
   },
   {
     "id": "tt4975722",
@@ -11831,7 +12200,8 @@
     "directorId": 92784,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/mx11nZOnT5nZbuzFi3TPVBQBZr.jpg",
     "tmdbId": 376867,
-    "filmographyTitle": "Mufasa: The Lion King"
+    "filmographyTitle": "Mufasa: The Lion King",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg"
   },
   {
     "id": "tt0824747",
@@ -11858,7 +12228,8 @@
     "directorId": 190,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg",
     "tmdbId": 3580,
-    "filmographyTitle": "American Sniper"
+    "filmographyTitle": "American Sniper",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/vJgtfUmZE5i4L12sOryAPuBa04K.jpg"
   },
   {
     "id": "tt0095327",
@@ -11885,7 +12256,8 @@
     "directorId": 628,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/opRQfqXqAcUaqLMNARi78S7KZVa.jpg",
     "tmdbId": 12477,
-    "filmographyTitle": "The Tale of The Princess Kaguya"
+    "filmographyTitle": "The Tale of The Princess Kaguya",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/cQidJuA546OSSXKWXoiCeINDxuj.jpg"
   },
   {
     "id": "tt0168629",
@@ -11912,7 +12284,8 @@
     "directorId": 42,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/Ahc3TWomYakLcbqZRVBDdf3rhMR.jpg",
     "tmdbId": 16,
-    "filmographyTitle": "Melancholia"
+    "filmographyTitle": "Melancholia",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg"
   },
   {
     "id": "tt2370248",
@@ -11937,7 +12310,8 @@
     "directorId": 1144604,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/rlbQbpu3tkMAikPWM53VElMUnzR.jpg",
     "tmdbId": 169813,
-    "filmographyTitle": "Shang-Chi and the Legend of the Ten Rings"
+    "filmographyTitle": "Shang-Chi and the Legend of the Ten Rings",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg"
   },
   {
     "id": "tt0171804",
@@ -11964,7 +12338,8 @@
     "directorId": 2836,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/uin6aAehUGpPCiJCaSjZG8B7M7d.jpg",
     "tmdbId": 226,
-    "filmographyTitle": "Carrie"
+    "filmographyTitle": "Carrie",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg"
   },
   {
     "id": "tt0978762",
@@ -11991,6 +12366,7 @@
     "directorId": 92733,
     "leadActorPhoto": "https://image.tmdb.org/t/p/w185/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg",
     "tmdbId": 24238,
-    "filmographyTitle": "Memoir of a Snail"
+    "filmographyTitle": "Memoir of a Snail",
+    "filmographyPoster": "https://image.tmdb.org/t/p/w92/woaN8CbloH0akyX0E72ayxlJAB4.jpg"
   }
 ]
