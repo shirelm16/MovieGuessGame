@@ -64,7 +64,7 @@ function compareImdbScore(guess, answer) {
   const diff = Math.abs(guess.imdbScore - answer.imdbScore);
   const hint = guess.imdbScore < answer.imdbScore ? '↑' : '↓';
   if (diff === 0) return { status: 'green' };
-  if (diff <= 1.0) return { status: 'yellow', hint };
+  if (diff <= 0.5) return { status: 'yellow', hint };
   return { status: 'gray', hint };
 }
 

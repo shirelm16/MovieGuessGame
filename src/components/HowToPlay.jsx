@@ -3,7 +3,7 @@ const RULES = [
   { emoji: '🎭', label: 'Cast', green: 'Actor in both', yellow: null, gray: 'Actor not in cast' },
   { emoji: '📅', label: 'Year', green: 'Exact year', yellow: 'Within 5 years (↑↓)', gray: '>5 years off' },
   { emoji: '💰', label: 'Box Office', green: 'Exact match', yellow: 'Within 50% (↑↓)', gray: '>50% off' },
-  { emoji: '⭐', label: 'IMDb Score', green: 'Exact match', yellow: 'Within 1.0 (↑↓)', gray: '>1.0 off' },
+  { emoji: '⭐', label: 'IMDb Score', green: 'Exact match', yellow: 'Within 0.5 (↑↓)', gray: '>0.5 off' },
   { emoji: '🔞', label: 'Rating', green: 'Exact match', yellow: null, gray: 'Different' },
   { emoji: '🎞️', label: 'Genres', green: 'All match', yellow: 'Partial match', gray: 'No match' },
   { emoji: '🏢', label: 'Studio', green: 'Same studio', yellow: null, gray: 'Different studio' },
