@@ -1,10 +1,25 @@
+// Priority order — first 3 with available data are shown
 const HINT_TYPES = [
   { id: 'tagline',     label: '💬 Tagline',              desc: "The movie's tagline" },
-  { id: 'filmography', label: "🎬 Director's other film", desc: 'Another movie by the same director' },
   { id: 'actorPhoto',  label: '⭐ Lead actor photo',      desc: 'A photo of the lead actor' },
+  { id: 'filmography', label: "🎬 Director's other film", desc: 'Another movie by the same director' },
+  { id: 'cast',        label: '🎭 Cast member',           desc: 'The name of one cast member' },
+  { id: 'runtime',     label: '⏱️ Runtime',               desc: 'How long the movie is' },
 ];
 
-export function HintDialog({ slotsLeft, hintsChosen = [], onChoose, onDismiss, onDisable }) {
+function hasData(hintId, answer) {
+  if (hintId === 'tagline')     return !!answer?.tagline;
+  if (hintId === 'actorPhoto')  return !!answer?.leadActorPhoto;
+  if (hintId === 'filmography') return !!answer?.filmographyTitle;
+  if (hintId === 'cast')        return Array.isArray(answer?.cast) && answer.cast.length > 0;
+  if (hintId === 'runtime')     return !!answer?.runtime;
+  return false;
+}
+
+export function HintDialog({ slotsLeft, hintsChosen = [], answer, onChoose, onDismiss, onDisable }) {
+  // Pick the best 3 hint types that have real data for this movie
+  const displayed = HINT_TYPES.filter(h => hasData(h.id, answer)).slice(0, 3);
+
   return (
     <div
       className="fixed inset-0 bg-black/70 flex items-center justify-center z-50 p-4"
@@ -28,7 +43,7 @@ export function HintDialog({ slotsLeft, hintsChosen = [], onChoose, onDismiss, o
         </p>
 
         <div className="space-y-2 mb-5">
-          {HINT_TYPES.map(h => {
+          {displayed.map(h => {
             const used = hintsChosen.includes(h.id);
             return (
               <button

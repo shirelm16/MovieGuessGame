@@ -70,5 +70,31 @@ export function HintCard({ type, answer }) {
     );
   }
 
+  if (type === 'cast') {
+    const actor = answer.cast?.[0];
+    return (
+      <HintCardShell emoji="🎭" label="Cast Member">
+        <p className="text-slate-400 text-xs mb-2">One of the cast members is...</p>
+        {actor ? (
+          <p className="text-white font-bold text-base uppercase tracking-wide">{actor}</p>
+        ) : (
+          <p className="text-slate-500 text-sm">No cast data available.</p>
+        )}
+      </HintCardShell>
+    );
+  }
+
+  if (type === 'runtime') {
+    return (
+      <HintCardShell emoji="⏱️" label="Runtime">
+        {answer.runtime ? (
+          <p className="text-white font-bold text-base">{answer.runtime} minutes</p>
+        ) : (
+          <p className="text-slate-500 text-sm">No runtime data available.</p>
+        )}
+      </HintCardShell>
+    );
+  }
+
   return null;
 }

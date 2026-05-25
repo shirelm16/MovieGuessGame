@@ -178,6 +178,7 @@ export function GameBoard() {
         <HintDialog
           slotsLeft={slotsLeft}
           hintsChosen={hintsChosen}
+          answer={answer}
           onChoose={handleHintChoose}
           onDismiss={() => setShowHintDialog(false)}
           onDisable={handleHintDisable}
