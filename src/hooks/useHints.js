@@ -10,14 +10,17 @@ export function useHints(guessCount, today) {
   const slotsKey = `hintSlots_${today}`;
   const chosenKey = `hintsChosen_${today}`;
   const shownKey = `hintShown_${today}`;
+  const chosenAtKey = `hintsChosenAt_${today}`;
 
   const getSlotsUsed = () => parseInt(localStorage.getItem(slotsKey) ?? '0', 10);
   const getHintsChosen = () => JSON.parse(localStorage.getItem(chosenKey) ?? '[]');
   const getHintShown = () => JSON.parse(localStorage.getItem(shownKey) ?? '[]');
+  const getHintsChosenAt = () => JSON.parse(localStorage.getItem(chosenAtKey) ?? '[]');
   const isDisabled = () => localStorage.getItem(DISABLED_KEY) === 'true';
 
   const slotsUsed = getSlotsUsed();
   const hintsChosen = getHintsChosen();
+  const hintsChosenAt = getHintsChosenAt();
   const disabled = isDisabled();
   const hintShown = getHintShown();
 
@@ -41,6 +44,10 @@ export function useHints(guessCount, today) {
     if (!shown.includes(trigger)) {
       localStorage.setItem(shownKey, JSON.stringify([...shown, trigger]));
     }
+    const chosenAt = getHintsChosenAt();
+    if (!chosenAt.includes(trigger)) {
+      localStorage.setItem(chosenAtKey, JSON.stringify([...chosenAt, trigger]));
+    }
     forceUpdate(n => n + 1);
   }
 
@@ -53,6 +60,7 @@ export function useHints(guessCount, today) {
     slotsUsed,
     slotsLeft: MAX_HINTS - slotsUsed,
     hintsChosen,
+    hintsChosenAt,
     pendingTrigger,
     hintsCountdown,
     disabled,

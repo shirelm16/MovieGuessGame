@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import confetti from 'canvas-confetti';
 import { buildShareText } from '../utils/shareGrid';
 
-export function ResultModal({ answer, guesses, comparisons, status, puzzleNumber, onClose }) {
+export function ResultModal({ answer, guesses, comparisons, status, puzzleNumber, hintsChosenAt = [], onClose }) {
   const won = status === 'won';
 
   useEffect(() => {
@@ -12,7 +12,7 @@ export function ResultModal({ answer, guesses, comparisons, status, puzzleNumber
   }, [won]);
 
   function handleShare() {
-    const text = buildShareText(guesses, comparisons, puzzleNumber);
+    const text = buildShareText(guesses, comparisons, puzzleNumber, hintsChosenAt);
     if (navigator.clipboard) {
       navigator.clipboard.writeText(text).then(() => alert('Copied to clipboard!'));
     } else {

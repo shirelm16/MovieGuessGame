@@ -16,7 +16,7 @@ export function GameBoard() {
   const lastAutoOpenTrigger = useRef(null);
   const hintTimerRef = useRef(null);
 
-  const { slotsLeft, hintsChosen, pendingTrigger, hintsCountdown, chooseHint, disableHints } =
+  const { slotsLeft, hintsChosen, hintsChosenAt, pendingTrigger, hintsCountdown, chooseHint, disableHints } =
     useHints(guesses.length, today);
 
   const usedIds = new Set(guesses.map(g => g.id));
@@ -192,6 +192,7 @@ export function GameBoard() {
           comparisons={comparisons}
           status={status}
           puzzleNumber={puzzleNumber}
+          hintsChosenAt={hintsChosenAt}
           onClose={() => setShowResult(false)}
         />
       )}

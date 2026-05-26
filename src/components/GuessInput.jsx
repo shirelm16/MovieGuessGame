@@ -9,8 +9,16 @@ export function GuessInput({ movies, onGuess, usedIds, disabled }) {
   useEffect(() => {
     if (!query.trim()) { setSuggestions([]); return; }
     const q = query.toLowerCase();
+    const seen = new Set();
     const matches = movies
-      .filter(m => !usedIds.has(m.id) && m.title.toLowerCase().includes(q))
+      .filter(m => {
+        if (usedIds.has(m.id)) return false;
+        if (!m.title.toLowerCase().includes(q)) return false;
+        const key = `${m.title}|${m.year}`;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      })
       .slice(0, 8);
     setSuggestions(matches);
     setActiveIdx(-1);

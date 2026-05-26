@@ -2,11 +2,11 @@ const EMOJI = { green: '🟩', yellow: '🟨', gray: '⬛' };
 
 const APP_URL = 'https://candid-twilight-b4b8a6.netlify.app';
 
-export function buildShareText(guesses, comparisons, puzzleNumber) {
+export function buildShareText(guesses, comparisons, puzzleNumber, hintsChosenAt = []) {
   const lines = [`FilmGuess #${puzzleNumber}`];
 
   // One emoji per guess — summarise the best tile result for that guess
-  const row = comparisons.map(comp => {
+  const row = comparisons.map((comp, i) => {
     const statuses = [
       comp.director.status,
       bestCastStatus(comp.cast),
@@ -17,8 +17,8 @@ export function buildShareText(guesses, comparisons, puzzleNumber) {
       comp.genres.status,
       comp.studio.status,
     ];
-    if (statuses.every(s => s === 'green')) return EMOJI.green;
-    return EMOJI.gray;
+    if (hintsChosenAt.includes(i + 1)) return '💡';
+    return statuses.every(s => s === 'green') ? EMOJI.green : EMOJI.gray;
   });
 
   lines.push(row.join(''));
