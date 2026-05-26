@@ -236,12 +236,14 @@ async function main() {
   }
 
   const results = [];
+  const seen = new Set();
 
   // Phase 1: OMDb fetch (skips cached entries)
   for (let i = 0; i < movies.length; i++) {
     const row = movies[i];
     const id = row['Const'];
-    if (!id) continue;
+    if (!id || seen.has(id)) continue;
+    seen.add(id);
 
     if (existing[id]) {
       results.push(existing[id]);
