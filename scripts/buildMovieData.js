@@ -47,9 +47,21 @@ function parseCsvRow(line) {
 
 // ── OMDb ───────────────────────────────────────────────────────────────────────
 
+// Throws with code 'RATE_LIMITED' when the daily quota is exhausted so callers
+// can fall back to TMDb instead of skipping the movie entirely.
 async function fetchOmdb(imdbId) {
   const res = await fetch(`https://www.omdbapi.com/?i=${imdbId}&apikey=${OMDB_KEY}`);
-  if (!res.ok) throw new Error(`OMDb ${res.status} for ${imdbId}`);
+  if (!res.ok) {
+    let body = {};
+    try { body = await res.json(); } catch (_) {}
+    const msg = body.Error ?? `HTTP ${res.status}`;
+    if (res.status === 401 && /limit/i.test(msg)) {
+      const err = new Error(`OMDb rate limit reached`);
+      err.code = 'RATE_LIMITED';
+      throw err;
+    }
+    throw new Error(`OMDb ${res.status}: ${msg}`);
+  }
   return res.json();
 }
 
@@ -89,12 +101,18 @@ async function fetchTmdbData(imdbId) {
 
   const director = detail.credits?.crew?.find(c => c.job === 'Director');
   const leadActor = detail.credits?.cast?.[0];
+  const cast = (detail.credits?.cast ?? []).slice(0, 4).map(a => a.name);
 
   return {
     studio: detail.production_companies?.[0]?.name ?? null,
     boxOffice: detail.revenue > 0 ? detail.revenue : null,
     tagline: detail.tagline || null,
     directorId: director?.id ?? null,
+    director: director?.name ?? null,
+    cast,
+    poster: detail.poster_path
+      ? `https://image.tmdb.org/t/p/w300${detail.poster_path}`
+      : null,
     leadActorPhoto: leadActor?.profile_path
       ? `https://image.tmdb.org/t/p/w185${leadActor.profile_path}`
       : null,
@@ -136,21 +154,24 @@ async function enrichFromTmdb(results) {
     return results;
   }
 
-  const toEnrich = results.filter(m => !m.studio || !m.boxOffice || !('tagline' in m) || !('filmographyPoster' in m));
+  const toEnrich = results.filter(m => !m.studio || !m.boxOffice || !('tagline' in m) || !('filmographyPoster' in m) || !m.cast?.length || !m.poster);
   console.log(`\nEnriching ${toEnrich.length} movies via TMDb...`);
 
   let studioCount = 0, boxOfficeCount = 0, taglineCount = 0, photoCount = 0, filmographyCount = 0;
   for (let i = 0; i < results.length; i++) {
     const movie = results[i];
-    if (movie.studio && movie.boxOffice && 'tagline' in movie && 'filmographyPoster' in movie) continue;
+    if (movie.studio && movie.boxOffice && 'tagline' in movie && 'filmographyPoster' in movie && movie.cast?.length && movie.poster) continue;
 
     try {
       process.stdout.write(`\r  [${i + 1}/${results.length}] ${movie.title}          `);
       const tmdb = await fetchTmdbData(movie.id);
       if (tmdb) {
         const updated = { ...movie };
-        if (!movie.studio && tmdb.studio)       { updated.studio = tmdb.studio; studioCount++; }
-        if (!movie.boxOffice && tmdb.boxOffice) { updated.boxOffice = tmdb.boxOffice; boxOfficeCount++; }
+        if (!movie.studio && tmdb.studio)         { updated.studio = tmdb.studio; studioCount++; }
+        if (!movie.boxOffice && tmdb.boxOffice)   { updated.boxOffice = tmdb.boxOffice; boxOfficeCount++; }
+        if (!movie.cast?.length && tmdb.cast?.length) updated.cast = tmdb.cast;
+        if (!movie.director && tmdb.director)     updated.director = tmdb.director;
+        if (!movie.poster && tmdb.poster)         updated.poster = tmdb.poster;
         updated.tagline = tmdb.tagline;
         if (tmdb.tagline) taglineCount++;
         updated.directorId = tmdb.directorId;
@@ -237,8 +258,9 @@ async function main() {
 
   const results = [];
   const seen = new Set();
+  let omdbRateLimited = false;
 
-  // Phase 1: OMDb fetch (skips cached entries)
+  // Phase 1: OMDb fetch (skips cached entries; falls back to CSV stub on rate limit)
   for (let i = 0; i < movies.length; i++) {
     const row = movies[i];
     const id = row['Const'];
@@ -248,6 +270,24 @@ async function main() {
     if (existing[id]) {
       results.push(existing[id]);
       process.stdout.write(`\r[${i + 1}/${movies.length}] cached: ${row['Title']}          `);
+      continue;
+    }
+
+    if (omdbRateLimited) {
+      // OMDb quota exhausted — build a stub from CSV; TMDb will fill the rest
+      results.push({
+        id,
+        title: row['Title'],
+        year: parseInt(row['Year']) || null,
+        director: row['Directors'] || null,
+        cast: [],
+        genres: parseGenres(row['Genres']),
+        rating: null,
+        imdbScore: parseFloat(row['IMDb Rating']) || null,
+        boxOffice: null,
+        studio: null,
+        poster: null,
+      });
       continue;
     }
 
@@ -276,7 +316,26 @@ async function main() {
 
       await new Promise(r => setTimeout(r, 150));
     } catch (err) {
-      console.log(`\nError for ${id}: ${err.message}`);
+      if (err.code === 'RATE_LIMITED') {
+        console.log(`\nOMDb daily limit reached — switching to CSV+TMDb fallback for remaining movies`);
+        omdbRateLimited = true;
+        // Still add this movie via CSV stub
+        results.push({
+          id,
+          title: row['Title'],
+          year: parseInt(row['Year']) || null,
+          director: row['Directors'] || null,
+          cast: [],
+          genres: parseGenres(row['Genres']),
+          rating: null,
+          imdbScore: parseFloat(row['IMDb Rating']) || null,
+          boxOffice: null,
+          studio: null,
+          poster: null,
+        });
+      } else {
+        console.log(`\nError for ${id}: ${err.message}`);
+      }
     }
   }
 
